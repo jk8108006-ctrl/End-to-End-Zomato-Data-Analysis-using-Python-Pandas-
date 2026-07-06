@@ -116,7 +116,7 @@ All three variables are essentially **uncorrelated**. The headline insight of th
 
 A 6-panel dashboard summarizing the full analysis:
 
-![Zomato EDA Dashboard](zomato_eda.png)
+https://github.com/jk8108006-ctrl/End-to-End-Zomato-Data-Analysis-using-Python-Pandas/blob/4672c0895feca349e5b669d96725c1f8c2e53510/visualiztions_of%20_project1.png
 
 1. Rating distribution (with mean/median markers)
 2. Top 10 locations by restaurant count
