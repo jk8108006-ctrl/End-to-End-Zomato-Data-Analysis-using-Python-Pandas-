@@ -1,0 +1,1249 @@
+name,online_order,book_table,rate,votes,location,rest_type,cuisines,approx_cost(for two people),listed_in(type),listed_in(city)
+Subway,Yes,No,4.7/5,1043,Richmond Town,,"Biryani, North Indian",150,Dine-out,JP Nagar
+House Srinidhi,No,No,3.6/5,5370,Rajajinagar,Casual Dining,"Italian, Pizza",350,Drinks & nightlife,Indiranagar
+Truffles,Yes,No,4.4/5,275,Banashankari  ,Cafe,"South Indian, North Indian","1,200",Buffet,JP Nagar
+Dhaba Faasos,Yes,Yes,2.7/5,2507,RT Nagar,Sweet Shop,"Sandwich, Fast Food",800,Delivery,Electronic City
+KFC,Yes,Yes,3.4/5,7705,Whitefield,Quick Bites,"Bakery, Cafe",800,Lunch,HSR Layout
+Cafe MTR,Yes,Yes,3.0/5,362,Koramangala,"Pub, Bar","Sandwich, Fast Food",2000,Drinks & nightlife,Whitefield
+Kitchen Vidyarthi Bhavan,Yes,Yes,3.0/5,4145,Banashankari,Cafe,"Mughlai, North Indian",250,Delivery,Jayanagar
+Kitchen New Taj Mahal Cafe,Yes,Yes,3.8/5,1082,Frazer Town  ,"Pub, Bar",North Indian,"2,500",Drinks & nightlife,JP Nagar
+Toit Brewpub,Yes,Yes,3.1/5,5413,Church Street,Delivery,"South Indian, Chinese",600,Desserts,HSR Layout
+Dhaba Tasty Bites,Yes,Yes,2.6/5,1690,Electronic City,Bakery,"Biryani, North Indian",,Desserts,Koramangala
+Chinese Hut,Yes,No,2.7/5,7000,HSR Layout,Delivery,"South Indian, North Indian",1000,Drinks & nightlife,Indiranagar
+Shivaji Military Hotel,Yes,Yes,3.5/5,3726,Vijayanagar  ,Casual Dining,"Bakery, Cafe",800,Delivery,HSR Layout
+Subway,No,No,4.6/5,2625,Electronic City,Delivery,Biryani,500,Delivery,Marathahalli
+Kitchen India Gate,Yes,Yes,2.5/5,5767,Bellandur,Casual Dining,"Continental, North Indian",500,Lunch,BTM Layout
+The Burger Lab,No,No,4.8/5,1766,Banashankari,Fine Dining,South Indian,"2,000",Dine-out,JP Nagar
+Hotel Hotel Pai Vista,No,No,4.1/5,4904,Bellandur,Quick Bites,"Biryani, North Indian",1200,Cafes,Koramangala
+Hotel Punjab Grill,Yes,No,2.9/5,2553,Rajajinagar,Sweet Shop,North Indian,400,Drinks & nightlife,BTM Layout
+Koshy's,No,Yes,3.7/5,4451,Yelahanka  ,"Pub, Bar","Italian, Pizza",400,Buffet,Banashankari
+Starbucks,Yes,,3.3/5,7287,Bellandur,Cafe,"Mughlai, North Indian",,Dine-out,Indiranagar
+Donne Biryani,No,Yes,4.5/5,3015,Koramangala  ,Delivery,Street Food,900,Dine-out,BTM Layout
+Palace Punjab Grill,Yes,,3.0/5,6674,Koramangala,Cafe,"Seafood, Continental",400,Dine-out,HSR Layout
+Brahmin Coffee Bar,No,No,2.8/5,6078,Basavanagudi,,Biryani,2500,Delivery,HSR Layout
+House Box8,No,No,2.6/5,5047,RT Nagar,Food Court,"Biryani, North Indian",2000,Desserts,Whitefield
+Hotel Donne Biryani,No,No,,5188,Hebbal  ,Sweet Shop,"Cafe, Beverages",200,Lunch,Marathahalli
+Cafe Chinese Hut,Yes,,4.7/5,1725,Marathahalli,Casual Dining,"Seafood, Continental",900,Lunch,Electronic City
+Freshmenu,No,,3.2/5,1453,Whitefield,"Pub, Bar","Continental, North Indian",,Lunch,HSR Layout
+Dhaba Beijing Bites,Yes,Yes,2.6/5,5068,Whitefield,,Biryani,150,Delivery,Jayanagar
+Shivaji Military Hotel,Yes,,4.5/5,405,Richmond Town,Mess,"South Indian, Chinese",250,Drinks & nightlife,Koramangala
+Biryani Koshy's,No,Yes,3.7/5,5420,RT Nagar  ,Bakery,"North Indian, Chinese",,Desserts,Whitefield
+The Burger Lab,Yes,No,2.9/5,968,JP Nagar,Quick Bites,"South Indian, Chinese",700,Cafes,BTM Layout
+McDonald's,Yes,Yes,4.0/5,1742,Basavanagudi,Delivery,Street Food,250,Drinks & nightlife,Electronic City
+McDonald's,No,Yes,NEW,2956,Marathahalli,"Pub, Bar",Chinese,600,Desserts,Koramangala
+Cafe The Burger Lab,No,Yes,2.6/5,1,Bellandur,Cafe,"Bakery, Cafe",2500,Cafes,Whitefield
+Cafe Freshmenu,Yes,Yes,3.3/5,277,Basavanagudi,"Casual Dining, Cafe","Seafood, Continental",150,Dine-out,JP Nagar
+Corner House,Yes,Yes,3.5/5,7373,MG Road  ,Delivery,"Biryani, North Indian",2000,Drinks & nightlife,BTM Layout
+Punjab Grill,No,No,3.7/5,3111,MG Road  ,Cafe,Chinese,900,Dine-out,Indiranagar
+Box8,No,Yes,2.9/5,6869,Richmond Town,Food Court,North Indian,150,Drinks & nightlife,Indiranagar
+Chai Point,No,Yes,3.9/5,1125,Hebbal,"Pub, Bar","Desserts, Bakery",450,Lunch,Jayanagar
+The Truffles,Yes,No,2.6/5,7595,Church Street,Bar,"Italian, Pizza",400,Drinks & nightlife,JP Nagar
+Vidyarthi Bhavan,Yes,,4.6/5,4579,Richmond Town,Cafe,"South Indian, Chinese",1000,Desserts,Whitefield
+KFC,Yes,,2.8/5,4036,Whitefield  ,Bakery,"South Indian, Chinese",1500,Desserts,Marathahalli
+Punjabi Tadka,No,No,-,6396,Koramangala,Beverage Shop,"North Indian, Chinese",800,Delivery,Electronic City
+Kamat Upachar,Yes,Yes,4.1/5,6259,Banashankari,Food Court,Street Food,150,Buffet,JP Nagar
+Palace Punjab Grill,No,Yes,NEW,6235,Richmond Town,Cafe,"Biryani, North Indian",700,Cafes,HSR Layout
+Koshy's,No,,3.7/5,1692,Yelahanka,Delivery,North Indian,350,Drinks & nightlife,Jayanagar
+Punjab Grill,No,No,3.0/5,128,Church Street,,"Pizza, Fast Food",600,Buffet,BTM Layout
+Biryani Beijing Bites,No,No,4.8/5,3888,Frazer Town,Mess,"South Indian, North Indian",1500,Buffet,Banashankari
+Starbucks,Yes,Yes,3.5/5,6976,Richmond Town,Desserts,Biryani,450,Desserts,HSR Layout
+Spice Garden,No,Yes,3.7/5,7657,RT Nagar,,"Seafood, Continental",,Desserts,Marathahalli
+Udupi Palace,Yes,No,NEW,4521,MG Road  ,Bar,"Biryani, North Indian",900,Lunch,Whitefield
+MTR,Yes,No,2.6/5,2241,Richmond Town,Beverage Shop,"Continental, North Indian",350,Delivery,HSR Layout
+Amul,Yes,No,2.9/5,1863,Koramangala,Sweet Shop,"Biryani, North Indian",150,Desserts,HSR Layout
+Barbeque Nation,No,,4.6/5,72,Yelahanka,Delivery,"Continental, North Indian",200,Buffet,JP Nagar
+Cafe Natural Ice Cream,No,Yes,3.8/5,7843,Electronic City,"Pub, Bar","North Indian, Chinese",600,Drinks & nightlife,Marathahalli
+KFC,Yes,No,4.0/5,7002,Church Street,Quick Bites,Fast Food,,Delivery,JP Nagar
+Udupi Palace,Yes,No,4.5/5,3804,Frazer Town,Desserts,"Sandwich, Fast Food",450,Lunch,Indiranagar
+Kitchen Truffles,Yes,No,-,3602,Domlur,Fine Dining,"Sandwich, Fast Food",2500,Lunch,Whitefield
+House Koshy's,Yes,Yes,3.1/5,6150,Frazer Town,Bar,"Desserts, Bakery",200,Drinks & nightlife,Banashankari
+House Tasty Bites,No,Yes,4.8/5,4732,HSR Layout,Quick Bites,,2000,Drinks & nightlife,Jayanagar
+Vidyarthi Bhavan,No,Yes,3.1/5,6887,HSR Layout,Bakery,Street Food,350,Cafes,Banashankari
+Biryani Spice Garden,No,No,4.7/5,2959,Marathahalli,Cafe,"North Indian, Chinese",500,Lunch,JP Nagar
+India Gate,Yes,No,4.5/5,1989,Koramangala,"Pub, Bar","South Indian, North Indian",200,Drinks & nightlife,HSR Layout
+Barbeque Nation,No,,4.4/5,1809,Sarjapur Road,Delivery,"North Indian, Chinese",350,Cafes,Koramangala
+Haveli,No,No,3.5/5,939,Banashankari,Food Court,"Sandwich, Fast Food","2,500",Drinks & nightlife,Indiranagar
+Biryani Hotel Pai Vista,Yes,,4.8/5,6295,Indiranagar,Casual Dining,"Seafood, Continental",700,Dine-out,Jayanagar
+Wrap It Up,No,Yes,4.4/5,3401,Hebbal,Sweet Shop,"Sandwich, Fast Food",450,Cafes,Marathahalli
+Restaurant Dominos,Yes,No,4.3/5,3860,Vijayanagar,Casual Dining,"Biryani, North Indian",350,Cafes,Banashankari
+Dhaba Vidyarthi Bhavan,No,Yes,4.9/5,4026,Yelahanka,Casual Dining,South Indian,600,Delivery,Electronic City
+Cafe Wrap It Up,No,Yes,2.7/5,1316,Koramangala,Fine Dining,Biryani,150,Dine-out,Koramangala
+Chinese Hut,No,No,NEW,5455,Sarjapur Road,Sweet Shop,"Desserts, Bakery",,Lunch,Indiranagar
+Hotel Pai Vista,No,No,4.6/5,1312,Vijayanagar  ,Mess,"Desserts, Bakery",900,Dine-out,Koramangala
+India Gate,No,No,3.6/5,5010,JP Nagar,Delivery,"Biryani, North Indian",350,Drinks & nightlife,Jayanagar
+Natural Ice Cream,No,Yes,4.4/5,6791,Sarjapur Road,Bar,"Pizza, Fast Food",150,Buffet,Koramangala
+Corner Chai Point,Yes,No,3.9/5,3676,Electronic City,"Pub, Bar","Ice Cream, Desserts",400,Dine-out,Banashankari
+Restaurant Empire Restaurant,Yes,Yes,4.7/5,5139,Basavanagudi  ,"Casual Dining, Cafe",,800,Lunch,Banashankari
+Kanti Sweets,Yes,No,,4611,Rajajinagar  ,Quick Bites,"Pizza, Fast Food",900,Buffet,Jayanagar
+India Gate,Yes,Yes,4.6/5,1560,Malleshwaram,Bar,"South Indian, North Indian",350,Delivery,Whitefield
+Dhaba Faasos,Yes,No,2.7/5,6732,Koramangala,Bakery,"Bakery, Cafe",300,Buffet,Indiranagar
+Wrap It Up,No,,2.9/5,7010,HSR Layout,Beverage Shop,"North Indian, Chinese",900,Lunch,Electronic City
+Eat Street,No,No,-,2212,Banashankari,Casual Dining,Street Food,1200,Cafes,BTM Layout
+Cafe Donne Biryani,No,No,4.4/5,6099,Basavanagudi,Fine Dining,"Cafe, Beverages",400,Lunch,JP Nagar
+Cafe Hotel Pai Vista,Yes,Yes,2.9/5,2852,JP Nagar  ,Desserts,North Indian,"1,200",Delivery,Electronic City
+Vasudev Adiga,Yes,No,2.7/5,5178,RT Nagar,Cafe,"Biryani, North Indian",2000,Buffet,Jayanagar
+Biryani Zone,Yes,,3.8/5,1198,Richmond Town,"Pub, Bar",Biryani,800,Buffet,BTM Layout
+Amul,Yes,No,2.5/5,2054,Domlur  ,Bakery,"South Indian, Chinese",1500,Cafes,Marathahalli
+Starbucks,No,,3.2/5,1596,Sarjapur Road,Food Court,Street Food,700,Lunch,Indiranagar
+Natural Ice Cream,Yes,Yes,3.5/5,5472,Hebbal,Bakery,Chinese,400,Buffet,Electronic City
+The Punjabi Tadka,Yes,Yes,3.3/5,6635,Electronic City,Delivery,"South Indian, Chinese",2000,Drinks & nightlife,Whitefield
+Udupi Palace,Yes,,4.3/5,3249,Indiranagar,Casual Dining,"Seafood, Continental",300,Dine-out,Marathahalli
+Box8,Yes,Yes,2.8/5,6971,MG Road  ,Delivery,"Mughlai, North Indian",2500,Drinks & nightlife,Marathahalli
+Biryani Zone,No,No,3.5/5,1494,Sarjapur Road,Fine Dining,"Ice Cream, Desserts",800,Dine-out,JP Nagar
+Tasty Bites,Yes,No,3.4/5,2889,Whitefield,,Biryani,350,Desserts,Whitefield
+Haveli,No,Yes,NEW,5543,Vijayanagar,Bakery,"Pizza, Fast Food",2000,Desserts,Banashankari
+Tasty Bites,Yes,Yes,3.6/5,7633,JP Nagar  ,"Casual Dining, Cafe","South Indian, North Indian","1,200",Drinks & nightlife,JP Nagar
+Empire Restaurant,Yes,Yes,4.0/5,302,Basavanagudi  ,Delivery,"North Indian, Chinese",2500,Drinks & nightlife,Koramangala
+Dhaba Truffles,No,Yes,3.3/5,7294,Church Street,"Pub, Bar","Ice Cream, Desserts",500,Buffet,Indiranagar
+Vidyarthi Bhavan,No,No,3.0/5,4752,Basavanagudi,Cafe,"Bakery, Cafe",350,Lunch,Jayanagar
+Shivaji Military Hotel,No,No,2.9/5,6825,RT Nagar,Casual Dining,Chinese,,Desserts,Whitefield
+Restaurant Dominos,No,Yes,3.4/5,28,HSR Layout,Sweet Shop,"South Indian, Chinese",600,Cafes,HSR Layout
+Vasudev Adiga,No,No,4.7/5,2084,Indiranagar,Bakery,"North Indian, Chinese",800,Lunch,Koramangala
+Spice Garden,No,,2.7/5,885,Yelahanka,Quick Bites,,450,Lunch,Marathahalli
+Faasos,Yes,Yes,3.0/5,3683,Vijayanagar,,"Mughlai, North Indian",800,Buffet,Electronic City
+Kitchen KFC,Yes,No,4.2/5,5721,Sarjapur Road,Beverage Shop,Biryani,250,Lunch,Whitefield
+Shivaji Military Hotel,No,No,2.8/5,3124,Indiranagar  ,,"Bakery, Cafe","1,200",Cafes,HSR Layout
+Palace Starbucks,No,Yes,2.7/5,7906,Jayanagar,Quick Bites,"Continental, North Indian",,Dine-out,Marathahalli
+MTR,No,No,2.5/5,886,Vijayanagar,Food Court,Chinese,350,Delivery,Indiranagar
+Empire Restaurant,No,Yes,2.8/5,3654,JP Nagar,Sweet Shop,"Sandwich, Fast Food",900,Desserts,Whitefield
+Udupi Palace,Yes,Yes,4.3/5,3828,Indiranagar,Desserts,"Pizza, Fast Food",450,Desserts,Koramangala
+Dragon Palace,No,No,2.9/5,3868,Frazer Town  ,Sweet Shop,"Pizza, Fast Food",,Buffet,JP Nagar
+Haveli,Yes,No,4.7/5,1245,HSR Layout,Desserts,"Cafe, Beverages",400,Drinks & nightlife,HSR Layout
+India Gate,Yes,No,3.4/5,1249,Church Street  ,"Casual Dining, Cafe",Chinese,150,Delivery,BTM Layout
+Haveli,No,Yes,4.2/5,4884,Indiranagar,Casual Dining,"South Indian, Chinese",2500,Buffet,JP Nagar
+Punjabi Tadka,No,No,2.6/5,5962,Majestic,"Pub, Bar",North Indian,350,Delivery,Marathahalli
+House MTR,Yes,Yes,3.8/5,7117,Yelahanka,Quick Bites,"Ice Cream, Desserts",250,Cafes,HSR Layout
+Shivaji Military Hotel,Yes,Yes,3.1/5,5189,Malleshwaram,Beverage Shop,"Biryani, North Indian",150,Dine-out,Marathahalli
+Meghana Foods,No,No,2.7/5,7771,BTM Layout,"Casual Dining, Cafe",Fast Food,700,Lunch,Electronic City
+Biryani Kamat Upachar,No,No,2.8/5,4551,Vijayanagar,Beverage Shop,"Continental, North Indian",400,Delivery,HSR Layout
+Dhaba Donne Biryani,Yes,Yes,2.6/5,6104,Vijayanagar,"Casual Dining, Cafe",Fast Food,"1,500",Lunch,Marathahalli
+Freshmenu,Yes,No,4.1/5,1232,Electronic City,Casual Dining,Chinese,800,Buffet,Indiranagar
+Kamat Upachar,Yes,No,2.8/5,2823,Rajajinagar,"Pub, Bar","Ice Cream, Desserts",300,Buffet,Koramangala
+Freshmenu,Yes,No,4.2/5,6891,RT Nagar,Quick Bites,North Indian,800,Desserts,Marathahalli
+Meghana Foods,No,Yes,4.7/5,458,Bellandur,Bar,"Ice Cream, Desserts",200,Cafes,Marathahalli
+Hotel Kamat Upachar,Yes,No,4.3/5,902,Jayanagar,Bar,"North Indian, Chinese",350,Delivery,Indiranagar
+Biryani Satkar,Yes,Yes,,2030,HSR Layout,"Casual Dining, Cafe","Pizza, Fast Food",1500,Buffet,Koramangala
+Biryani Udupi Palace,Yes,No,3.9/5,1624,Marathahalli,Bakery,"Seafood, Continental",2000,Lunch,Whitefield
+Vasudev Adiga,No,Yes,NEW,3415,Church Street,Food Court,Street Food,1500,Buffet,Banashankari
+Barbeque Nation,No,No,3.0/5,7030,Rajajinagar,Sweet Shop,"Mughlai, North Indian",400,Buffet,JP Nagar
+Dominos,No,Yes,2.9/5,2737,Yelahanka,Delivery,"Ice Cream, Desserts",400,Buffet,Koramangala
+Cafe Cafe Coffee Day,No,Yes,3.8/5,7998,Jayanagar,Cafe,Street Food,450,Drinks & nightlife,Electronic City
+Amul,No,Yes,2.9/5,1040,Marathahalli  ,Desserts,"Mughlai, North Indian",2500,Delivery,Whitefield
+Cafe Koshy's,No,No,3.4/5,2334,Church Street,Bakery,,1000,Buffet,Whitefield
+Biryani Biryani Zone,Yes,Yes,2.7/5,749,Banashankari,Food Court,"Seafood, Continental",1000,Lunch,Jayanagar
+Kitchen Koshy's,No,Yes,2.7/5,53,HSR Layout,Mess,"Biryani, North Indian",2500,Delivery,HSR Layout
+Biryani Zone,Yes,,4.0/5,2012,Hebbal,Bakery,"Bakery, Cafe",150,Dine-out,Koramangala
+McDonald's,No,Yes,2.9/5,6944,Banashankari,Desserts,Biryani,2000,Lunch,Whitefield
+New Taj Mahal Cafe,Yes,No,-,6894,Rajajinagar,Bar,"Pizza, Fast Food",700,Lunch,JP Nagar
+Hotel Brahmin Coffee Bar,No,,4.2/5,1355,Church Street,"Pub, Bar",Biryani,2500,Lunch,Koramangala
+Hotel Vidyarthi Bhavan,Yes,Yes,3.3/5,3093,Malleshwaram  ,,"Biryani, North Indian",300,Delivery,BTM Layout
+Freshmenu,No,No,4.7/5,7518,Basavanagudi,Cafe,"Desserts, Bakery",250,Lunch,Jayanagar
+Punjabi Tadka,Yes,No,4.2/5,4097,Church Street,Cafe,"Bakery, Cafe",,Lunch,HSR Layout
+Restaurant Faasos,No,Yes,3.2/5,2532,Richmond Town,Fine Dining,South Indian,200,Cafes,Koramangala
+Kamat Upachar,Yes,Yes,4.5/5,7014,Whitefield,Desserts,"Biryani, North Indian","2,500",Delivery,Whitefield
+Shivaji Military Hotel,Yes,No,2.9/5,6106,Koramangala,Mess,"Desserts, Bakery","1,000",Desserts,JP Nagar
+Eat Street,No,Yes,4.2/5,6508,Banashankari,Delivery,"Continental, North Indian",300,Lunch,Marathahalli
+KFC,No,No,4.5/5,2147,Basavanagudi,Fine Dining,Biryani,250,Drinks & nightlife,Koramangala
+Natural Ice Cream,No,No,4.8/5,3635,Vijayanagar  ,Cafe,"Sandwich, Fast Food",,Buffet,JP Nagar
+Haveli,Yes,Yes,2.6/5,7629,Sarjapur Road  ,Desserts,Street Food,1000,Cafes,BTM Layout
+Satkar,No,No,2.7/5,1927,Rajajinagar  ,"Pub, Bar","Bakery, Cafe",500,Dine-out,Jayanagar
+Cafe Kamat Upachar,Yes,No,4.4/5,7693,Koramangala,Desserts,"Bakery, Cafe",350,Desserts,Electronic City
+Empire Restaurant,No,No,2.7/5,4044,Frazer Town,Cafe,"Bakery, Cafe",,Lunch,Banashankari
+Palace Koshy's,Yes,No,4.6/5,3930,Indiranagar,Bakery,"Pizza, Fast Food",500,Buffet,HSR Layout
+Natural Ice Cream,No,,4.8/5,849,Rajajinagar,Casual Dining,"South Indian, North Indian",350,Lunch,Electronic City
+Hotel Dominos,No,Yes,3.0/5,2428,Richmond Town,Delivery,"Seafood, Continental",900,Desserts,Marathahalli
+Corner Starbucks,Yes,,-,1567,Vijayanagar,Mess,"Mughlai, North Indian",2000,Delivery,Electronic City
+Cafe New Taj Mahal Cafe,Yes,Yes,NEW,5370,Yelahanka,Fine Dining,Fast Food,900,Desserts,Jayanagar
+Empire Restaurant,No,No,3.5/5,488,Yelahanka,Bakery,Chinese,200,Buffet,Whitefield
+Box8,Yes,No,NEW,1667,Domlur,Mess,"Italian, Pizza",800,Drinks & nightlife,BTM Layout
+Faasos,Yes,Yes,3.4/5,1241,BTM Layout,Fine Dining,"Desserts, Bakery",2500,Delivery,Whitefield
+Dominos,Yes,Yes,4.6/5,6471,Church Street,Quick Bites,"North Indian, Chinese",1200,Dine-out,BTM Layout
+Dhaba Udupi Palace,Yes,No,4.0/5,7809,Frazer Town,Mess,"South Indian, Chinese",700,Cafes,Whitefield
+Box8,Yes,Yes,3.0/5,4799,Electronic City,"Pub, Bar","Seafood, Continental",600,Desserts,Jayanagar
+Spice Garden,Yes,No,3.6/5,7334,MG Road,Bar,"South Indian, North Indian",2000,Buffet,BTM Layout
+Brahmin Coffee Bar,Yes,,4.0/5,6563,MG Road,Casual Dining,Street Food,2500,Delivery,BTM Layout
+Haveli,No,No,3.5/5,939,Banashankari,Food Court,"Sandwich, Fast Food","2,500",Drinks & nightlife,Indiranagar
+House McDonald's,Yes,No,4.4/5,526,Indiranagar,Beverage Shop,Biryani,800,Cafes,JP Nagar
+Biryani Punjabi Tadka,Yes,Yes,4.8/5,1868,Marathahalli,Casual Dining,"Bakery, Cafe",,Dine-out,Banashankari
+Kamat Upachar,Yes,Yes,4.8/5,3385,Electronic City,Food Court,South Indian,,Drinks & nightlife,Indiranagar
+The The Burger Lab,No,No,3.8/5,3623,Church Street,,"Cafe, Beverages",,Cafes,Banashankari
+Shivaji Military Hotel,No,No,4.2/5,7885,RT Nagar,Fine Dining,"Pizza, Fast Food",350,Cafes,JP Nagar
+Cafe Coffee Day,Yes,,4.9/5,3814,Frazer Town,Beverage Shop,"Sandwich, Fast Food",,Dine-out,Koramangala
+The Burger Lab,No,No,4.1/5,5872,JP Nagar  ,Food Court,"Italian, Pizza",1200,Desserts,BTM Layout
+Corner Punjabi Tadka,Yes,No,4.5/5,6369,HSR Layout  ,Bakery,Chinese,200,Dine-out,Jayanagar
+Dhaba Vidyarthi Bhavan,No,No,3.1/5,1655,Yelahanka,"Pub, Bar",North Indian,150,Lunch,Koramangala
+Freshmenu,Yes,No,3.4/5,2340,JP Nagar,Cafe,Chinese,"2,500",Dine-out,Jayanagar
+House Haveli,Yes,,3.0/5,4917,Domlur,Cafe,"Mughlai, North Indian",,Dine-out,Jayanagar
+McDonald's,Yes,Yes,3.0/5,4555,Rajajinagar  ,Sweet Shop,Fast Food,900,Dine-out,Marathahalli
+Donne Biryani,Yes,Yes,3.5/5,7827,Majestic,"Casual Dining, Cafe","North Indian, Chinese","1,500",Buffet,Whitefield
+Empire Restaurant,Yes,No,3.8/5,3191,Domlur,"Casual Dining, Cafe",Chinese,1000,Lunch,Jayanagar
+Chai Point,No,No,2.6/5,374,Bellandur,"Pub, Bar",North Indian,200,Drinks & nightlife,HSR Layout
+Chai Point,No,No,3.4/5,1016,Sarjapur Road,Quick Bites,"Biryani, North Indian",,Cafes,Whitefield
+Cafe Freshmenu,No,No,4.8/5,4839,Malleshwaram,Food Court,,600,Dine-out,JP Nagar
+Donne Biryani,No,Yes,3.3/5,1014,Frazer Town  ,Desserts,"North Indian, Chinese",1000,Drinks & nightlife,Banashankari
+Udupi Palace,No,No,2.7/5,207,Koramangala,Food Court,"Italian, Pizza",150,Delivery,BTM Layout
+Spice Garden,No,Yes,3.2/5,792,Richmond Town,,Street Food,900,Cafes,Jayanagar
+Starbucks,Yes,Yes,3.4/5,5656,Electronic City  ,Bakery,South Indian,900,Lunch,Jayanagar
+Restaurant McDonald's,Yes,Yes,4.0/5,3496,Yelahanka,Delivery,"Bakery, Cafe",300,Desserts,Koramangala
+Biryani Zone,Yes,Yes,4.6/5,6072,Hebbal,Beverage Shop,"Continental, North Indian",500,Desserts,JP Nagar
+Vidyarthi Bhavan,Yes,Yes,NEW,6892,MG Road,"Casual Dining, Cafe",Chinese,,Dine-out,Koramangala
+Corner Dominos,No,Yes,2.9/5,4867,Banashankari  ,Fine Dining,"Desserts, Bakery",200,Lunch,JP Nagar
+Palace Brahmin Coffee Bar,Yes,No,3.2/5,3610,JP Nagar,Bakery,South Indian,450,Buffet,Whitefield
+Belgian Waffle,No,No,4.9/5,1925,Bellandur  ,Mess,North Indian,500,Drinks & nightlife,Indiranagar
+Restaurant Biryani Zone,No,No,4.5/5,27,Frazer Town  ,Food Court,Biryani,"1,500",Cafes,Jayanagar
+Toit Brewpub,No,No,3.3/5,6762,Bellandur  ,Mess,"Biryani, North Indian",350,Lunch,Electronic City
+Cafe Coffee Day,Yes,No,3.7/5,7971,Majestic,Beverage Shop,"Biryani, North Indian",300,Dine-out,BTM Layout
+India Gate,Yes,Yes,2.8/5,5724,Sarjapur Road,Bar,,1000,Buffet,Electronic City
+Dragon Palace,No,No,3.1/5,6367,BTM Layout,Quick Bites,"Pizza, Fast Food",350,Drinks & nightlife,HSR Layout
+The Chinese Hut,No,No,4.7/5,1577,Basavanagudi,,"North Indian, Chinese",800,Drinks & nightlife,Whitefield
+Faasos,No,No,2.8/5,5158,Marathahalli,Casual Dining,,700,Cafes,Banashankari
+Restaurant Starbucks,No,No,4.7/5,7284,Basavanagudi,Sweet Shop,"South Indian, North Indian",600,Delivery,Jayanagar
+Punjabi Tadka,Yes,,4.8/5,7057,Banashankari,Sweet Shop,"Mughlai, North Indian",1000,Cafes,Indiranagar
+Dhaba Srinidhi,Yes,No,3.7/5,5150,Sarjapur Road,Bar,"South Indian, North Indian",250,Dine-out,Electronic City
+The Faasos,No,Yes,4.0/5,6446,Jayanagar,Fine Dining,"Continental, North Indian",250,Cafes,Whitefield
+Corner House,Yes,Yes,4.9/5,306,Church Street  ,Desserts,"Cafe, Beverages",1000,Delivery,Whitefield
+Meghana Foods,No,No,3.5/5,6924,Sarjapur Road  ,Fine Dining,"North Indian, Chinese",200,Cafes,BTM Layout
+Freshmenu,No,No,4.7/5,1708,Koramangala,Beverage Shop,Chinese,600,Delivery,Indiranagar
+Koshy's,No,Yes,3.2/5,2545,Frazer Town,"Casual Dining, Cafe",Street Food,800,Buffet,Koramangala
+India Gate,No,No,NEW,6105,JP Nagar,Food Court,Fast Food,800,Buffet,Whitefield
+Shivaji Military Hotel,No,Yes,4.4/5,634,Hebbal,Fine Dining,South Indian,1500,Cafes,Whitefield
+Barbeque Nation,No,Yes,-,4676,Sarjapur Road,"Casual Dining, Cafe","South Indian, North Indian",800,Buffet,Jayanagar
+Corner McDonald's,No,Yes,4.6/5,3155,BTM Layout,Cafe,Street Food,,Dine-out,Whitefield
+Kitchen Chinese Hut,Yes,No,3.6/5,4540,Rajajinagar,Food Court,"South Indian, North Indian",300,Dine-out,Koramangala
+MTR,Yes,Yes,2.5/5,4153,BTM Layout  ,Fine Dining,"Ice Cream, Desserts",500,Buffet,Banashankari
+Vidyarthi Bhavan,Yes,Yes,4.2/5,7090,Domlur  ,Casual Dining,"Cafe, Beverages",600,Buffet,HSR Layout
+Toit Brewpub,No,No,3.7/5,3741,Indiranagar,Bar,North Indian,500,Desserts,BTM Layout
+Hotel Wrap It Up,No,,2.8/5,4448,Rajajinagar,Mess,"Mughlai, North Indian",500,Drinks & nightlife,Banashankari
+Box8,No,No,2.6/5,795,Hebbal,Sweet Shop,"South Indian, Chinese",700,Dine-out,Koramangala
+Udupi Palace,Yes,No,4.2/5,3923,Banashankari,Cafe,South Indian,250,Drinks & nightlife,Marathahalli
+Corner Barbeque Nation,Yes,Yes,4.7/5,2844,Hebbal,Sweet Shop,"Biryani, North Indian",300,Drinks & nightlife,Indiranagar
+Donne Biryani,Yes,Yes,4.4/5,7446,Whitefield,Beverage Shop,Street Food,600,Desserts,JP Nagar
+Vidyarthi Bhavan,Yes,,NEW,3972,Hebbal,Quick Bites,"South Indian, Chinese",200,Dine-out,BTM Layout
+Eat Street,Yes,Yes,3.4/5,1133,Basavanagudi,Food Court,"Bakery, Cafe",1200,Lunch,Electronic City
+The Tasty Bites,No,No,2.7/5,7271,HSR Layout,"Casual Dining, Cafe","Ice Cream, Desserts",200,Desserts,JP Nagar
+Brahmin Coffee Bar,No,No,3.6/5,4850,Electronic City,Quick Bites,Chinese,800,Cafes,Indiranagar
+Satkar,No,No,2.8/5,2381,BTM Layout,"Casual Dining, Cafe",Fast Food,900,Dine-out,Electronic City
+Barbeque Nation,No,No,4.8/5,3179,Domlur,,"Desserts, Bakery",2500,Drinks & nightlife,Indiranagar
+Corner Wrap It Up,Yes,No,NEW,1895,Church Street,Mess,Chinese,250,Buffet,Whitefield
+Beijing Bites,Yes,Yes,2.9/5,6748,HSR Layout,Quick Bites,Biryani,250,Lunch,JP Nagar
+Box8,Yes,Yes,3.0/5,4799,Electronic City,"Pub, Bar","Seafood, Continental",600,Desserts,Jayanagar
+Starbucks,Yes,Yes,2.6/5,4833,Whitefield  ,Food Court,Street Food,400,Desserts,Koramangala
+Dominos,No,Yes,NEW,5105,Domlur,Bar,"Sandwich, Fast Food",2000,Desserts,Koramangala
+Udupi Palace,Yes,No,4.3/5,5860,Hebbal  ,"Pub, Bar","North Indian, Chinese",600,Delivery,Marathahalli
+Hotel New Taj Mahal Cafe,Yes,No,3.2/5,4131,Sarjapur Road  ,"Pub, Bar","Biryani, North Indian",250,Dine-out,Electronic City
+Restaurant Natural Ice Cream,Yes,Yes,4.1/5,2466,Frazer Town,Food Court,"Continental, North Indian",2000,Lunch,BTM Layout
+Biryani Zone,Yes,No,2.7/5,2289,Vijayanagar,Delivery,South Indian,2500,Drinks & nightlife,Jayanagar
+Amul,No,Yes,2.8/5,956,Richmond Town,Mess,"Pizza, Fast Food",700,Desserts,BTM Layout
+Vasudev Adiga,No,No,4.3/5,2433,Rajajinagar,,Fast Food,1500,Cafes,JP Nagar
+The Burger Lab,Yes,No,3.8/5,5406,Malleshwaram,Food Court,"North Indian, Chinese",350,Buffet,JP Nagar
+Brahmin Coffee Bar,No,Yes,2.8/5,884,Frazer Town  ,Beverage Shop,"Ice Cream, Desserts",300,Delivery,BTM Layout
+Amul,Yes,No,2.8/5,5326,Hebbal,"Casual Dining, Cafe","Bakery, Cafe","1,000",Lunch,JP Nagar
+Meghana Foods,No,No,3.9/5,3610,Yelahanka,Mess,Street Food,600,Desserts,Banashankari
+Natural Ice Cream,No,No,3.7/5,1229,Marathahalli,Fine Dining,"Cafe, Beverages",2000,Cafes,Indiranagar
+Cafe Empire Restaurant,No,Yes,4.2/5,6813,Domlur,Desserts,"Sandwich, Fast Food",500,Dine-out,Whitefield
+Toit Brewpub,No,Yes,2.8/5,6540,Indiranagar,Fine Dining,"Biryani, North Indian",1000,Buffet,Electronic City
+Donne Biryani,Yes,No,2.6/5,519,Malleshwaram,Quick Bites,"Seafood, Continental","2,000",Dine-out,Whitefield
+Spice Garden,No,Yes,3.0/5,4795,Koramangala,"Pub, Bar","Biryani, North Indian",1200,Drinks & nightlife,Banashankari
+Rolls Mania,Yes,No,NEW,5249,Frazer Town  ,Delivery,"Mughlai, North Indian",500,Delivery,HSR Layout
+Truffles,Yes,No,3.3/5,917,Marathahalli,Mess,South Indian,,Desserts,Electronic City
+MTR,No,No,3.6/5,935,Hebbal,Fine Dining,North Indian,350,Drinks & nightlife,Jayanagar
+Biryani Wrap It Up,Yes,No,4.0/5,6530,Electronic City,Bakery,Street Food,1200,Buffet,Indiranagar
+Kamat Upachar,Yes,No,4.4/5,5985,Jayanagar,Food Court,"Cafe, Beverages",250,Lunch,BTM Layout
+Punjabi Tadka,Yes,No,NEW,2102,Rajajinagar,"Casual Dining, Cafe",,1500,Cafes,Marathahalli
+Toit Brewpub,No,No,4.7/5,11,Jayanagar,Casual Dining,Street Food,150,Dine-out,BTM Layout
+Kamat Upachar,Yes,Yes,3.9/5,1868,Rajajinagar,Mess,"Sandwich, Fast Food",800,Lunch,HSR Layout
+Vidyarthi Bhavan,Yes,Yes,4.6/5,2779,Domlur,Bar,"Biryani, North Indian",700,Drinks & nightlife,Koramangala
+Corner House,Yes,No,3.4/5,4396,Sarjapur Road  ,Mess,"South Indian, North Indian",700,Lunch,BTM Layout
+Satkar,No,No,4.9/5,5051,Richmond Town,Beverage Shop,Biryani,800,Drinks & nightlife,Indiranagar
+Kitchen New Taj Mahal Cafe,No,Yes,4.0/5,5275,Domlur,Sweet Shop,"South Indian, Chinese",,Delivery,Marathahalli
+Toit Brewpub,No,No,3.3/5,4811,Richmond Town,Cafe,"Seafood, Continental",150,Buffet,Banashankari
+Koshy's,No,Yes,4.2/5,4286,MG Road,Cafe,,400,Buffet,Electronic City
+Kamat Upachar,Yes,Yes,4.1/5,2129,MG Road,Mess,,"1,200",Desserts,Whitefield
+Cafe Haveli,Yes,Yes,2.9/5,5923,Jayanagar,Delivery,Fast Food,200,Desserts,Indiranagar
+MTR,Yes,No,3.8/5,1380,Majestic,Beverage Shop,"Biryani, North Indian","2,500",Lunch,JP Nagar
+The Empire Restaurant,No,Yes,3.7/5,3081,BTM Layout,Sweet Shop,Street Food,800,Desserts,Electronic City
+Satkar,No,Yes,4.8/5,2040,MG Road,Casual Dining,Biryani,1500,Lunch,HSR Layout
+House Chinese Hut,Yes,Yes,3.4/5,588,Jayanagar,Sweet Shop,Street Food,400,Buffet,Indiranagar
+Freshmenu,Yes,Yes,2.7/5,4444,Electronic City,Bakery,"North Indian, Chinese",900,Buffet,BTM Layout
+Freshmenu,Yes,No,4.3/5,2403,RT Nagar,"Casual Dining, Cafe","Continental, North Indian",,Drinks & nightlife,Koramangala
+Palace Haveli,No,No,3.5/5,2204,MG Road,Beverage Shop,"Pizza, Fast Food",1200,Delivery,JP Nagar
+Haveli,Yes,Yes,3.7/5,3389,Jayanagar,Beverage Shop,"Mughlai, North Indian",150,Buffet,HSR Layout
+Restaurant Meghana Foods,Yes,Yes,2.7/5,968,Church Street,Casual Dining,North Indian,,Cafes,Electronic City
+Beijing Bites,Yes,Yes,-,7691,HSR Layout,Beverage Shop,"Cafe, Beverages",150,Buffet,Marathahalli
+Vasudev Adiga,Yes,Yes,3.7/5,6527,Vijayanagar,Cafe,"North Indian, Chinese",800,Buffet,Indiranagar
+Brahmin Coffee Bar,No,Yes,4.7/5,6807,HSR Layout,Desserts,,300,Dine-out,JP Nagar
+Srinidhi,Yes,Yes,3.6/5,726,Indiranagar,Quick Bites,South Indian,450,Lunch,Whitefield
+Chai Point,Yes,No,4.4/5,6434,Hebbal,Sweet Shop,"Ice Cream, Desserts",800,Buffet,Marathahalli
+Rolls Mania,No,No,2.6/5,7227,Jayanagar,Fine Dining,Fast Food,"1,000",Desserts,Marathahalli
+Palace Dragon Palace,Yes,,3.3/5,2383,MG Road,"Pub, Bar",,800,Drinks & nightlife,HSR Layout
+Hotel Pai Vista,No,No,3.5/5,1190,Basavanagudi,Desserts,"Continental, North Indian",200,Cafes,Electronic City
+Natural Ice Cream,Yes,No,4.4/5,7684,Domlur,Casual Dining,"South Indian, Chinese",700,Drinks & nightlife,JP Nagar
+The Burger Lab,No,,2.8/5,6276,Koramangala  ,Cafe,"Biryani, North Indian",700,Dine-out,JP Nagar
+Truffles,Yes,No,2.5/5,1949,BTM Layout  ,Bakery,"Seafood, Continental",900,Delivery,Indiranagar
+Wrap It Up,Yes,Yes,NEW,394,Jayanagar,Delivery,"Seafood, Continental","1,500",Desserts,Koramangala
+Cafe Biryani Zone,Yes,No,4.5/5,5069,Banashankari,Bakery,"Bakery, Cafe",200,Dine-out,Koramangala
+Wrap It Up,No,No,-,4964,Malleshwaram,Bakery,"Biryani, North Indian",800,Cafes,Electronic City
+Udupi Palace,No,No,NEW,4443,Banashankari,Bar,"Italian, Pizza",200,Buffet,Banashankari
+Palace Tasty Bites,Yes,Yes,3.1/5,3998,Bellandur  ,Delivery,"Cafe, Beverages",450,Cafes,BTM Layout
+Natural Ice Cream,No,Yes,4.7/5,3591,Bellandur,Food Court,South Indian,800,Buffet,Banashankari
+Kitchen KFC,Yes,No,2.8/5,3681,Koramangala,"Pub, Bar","Continental, North Indian",,Desserts,Koramangala
+Cafe Coffee Day,No,No,-,6083,Bellandur,Delivery,"South Indian, North Indian",250,Delivery,Marathahalli
+India Gate,Yes,,3.2/5,4909,Basavanagudi,Sweet Shop,"Ice Cream, Desserts",300,Dine-out,Marathahalli
+Corner Vidyarthi Bhavan,No,Yes,2.9/5,1100,Marathahalli,Sweet Shop,"Italian, Pizza",800,Lunch,Electronic City
+Biryani Zone,Yes,No,4.9/5,72,Malleshwaram,Food Court,"Pizza, Fast Food",,Cafes,BTM Layout
+Cafe Coffee Day,Yes,Yes,3.9/5,7827,Majestic,Casual Dining,"North Indian, Chinese",450,Buffet,Whitefield
+Hotel The Burger Lab,No,No,3.6/5,7330,Basavanagudi,Quick Bites,"Ice Cream, Desserts",350,Drinks & nightlife,Koramangala
+Biryani Udupi Palace,Yes,No,2.9/5,4805,BTM Layout,Food Court,"Biryani, North Indian",2500,Desserts,Electronic City
+Tasty Bites,Yes,No,3.5/5,2043,Whitefield,Fine Dining,Biryani,200,Dine-out,BTM Layout
+The Burger Lab,No,,2.8/5,6276,Koramangala  ,Cafe,"Biryani, North Indian",700,Dine-out,JP Nagar
+Eat Street,No,Yes,3.8/5,2134,Domlur,Quick Bites,South Indian,350,Lunch,JP Nagar
+Natural Ice Cream,Yes,No,4.2/5,340,Majestic,Bakery,Fast Food,,Lunch,Jayanagar
+Amul,Yes,,3.4/5,2720,Indiranagar,Fine Dining,North Indian,,Drinks & nightlife,Whitefield
+Chinese Hut,No,No,4.6/5,1576,Electronic City,Sweet Shop,"Italian, Pizza",400,Dine-out,Whitefield
+Dragon Palace,Yes,Yes,3.6/5,7753,Yelahanka,Mess,Fast Food,400,Delivery,BTM Layout
+New Taj Mahal Cafe,Yes,Yes,3.1/5,3712,HSR Layout  ,"Pub, Bar",Fast Food,500,Buffet,JP Nagar
+Vasudev Adiga,Yes,No,2.5/5,1845,Sarjapur Road,Mess,"South Indian, Chinese",250,Drinks & nightlife,JP Nagar
+Palace India Gate,No,Yes,3.7/5,1540,Whitefield,Fine Dining,Fast Food,900,Delivery,Jayanagar
+Punjab Grill,No,No,3.3/5,7291,Jayanagar,Delivery,Biryani,150,Delivery,JP Nagar
+Punjabi Tadka,Yes,No,4.3/5,974,Church Street,Food Court,,450,Dine-out,Koramangala
+Wrap It Up,No,Yes,4.2/5,3566,Bellandur,Desserts,,1000,Drinks & nightlife,Electronic City
+Brahmin Coffee Bar,No,No,2.7/5,4181,Whitefield,Cafe,Street Food,250,Drinks & nightlife,HSR Layout
+Donne Biryani,No,Yes,4.9/5,3453,Basavanagudi,Bakery,Chinese,700,Desserts,JP Nagar
+MTR,No,Yes,3.1/5,7644,Rajajinagar,Cafe,"Pizza, Fast Food",1200,Drinks & nightlife,Indiranagar
+Haveli,Yes,No,2.8/5,1838,Koramangala,Casual Dining,"Sandwich, Fast Food",350,Delivery,Banashankari
+Dragon Palace,No,No,3.9/5,2,RT Nagar,Delivery,"North Indian, Chinese",500,Delivery,Indiranagar
+KFC,No,No,3.3/5,6702,HSR Layout,Quick Bites,"South Indian, Chinese",450,Dine-out,Banashankari
+Amul,No,No,3.1/5,2768,Whitefield,"Casual Dining, Cafe",North Indian,250,Drinks & nightlife,HSR Layout
+McDonald's,No,No,2.6/5,4433,Marathahalli,Fine Dining,South Indian,"2,000",Delivery,Banashankari
+Palace Shivaji Military Hotel,Yes,,3.2/5,7410,Banashankari,Bar,Chinese,350,Lunch,BTM Layout
+Donne Biryani,Yes,No,3.0/5,1208,Rajajinagar,Quick Bites,Chinese,,Dine-out,Indiranagar
+Koshy's,No,No,2.8/5,5833,Electronic City,"Pub, Bar","Seafood, Continental",450,Lunch,JP Nagar
+Corner Kamat Upachar,Yes,Yes,4.6/5,6222,Majestic,Food Court,North Indian,250,Buffet,Indiranagar
+Toit Brewpub,No,No,3.4/5,3564,Jayanagar,"Pub, Bar",Biryani,"1,200",Delivery,Koramangala
+Restaurant India Gate,No,Yes,NEW,5655,Malleshwaram,Fine Dining,Fast Food,600,Desserts,Electronic City
+Kitchen Brahmin Coffee Bar,Yes,,2.5/5,21,Vijayanagar,Fine Dining,"South Indian, North Indian",900,Delivery,JP Nagar
+Haveli,Yes,No,3.9/5,5802,Vijayanagar,Casual Dining,"Seafood, Continental",700,Drinks & nightlife,Marathahalli
+Hotel Punjab Grill,Yes,No,3.7/5,3387,Majestic,Sweet Shop,,150,Desserts,Marathahalli
+Kitchen Beijing Bites,Yes,Yes,3.9/5,5203,Banashankari,Bar,"Italian, Pizza",400,Buffet,Marathahalli
+McDonald's,No,No,4.4/5,4311,Electronic City,Bakery,"Pizza, Fast Food",500,Drinks & nightlife,Jayanagar
+Cafe KFC,No,Yes,3.2/5,7914,Domlur,Quick Bites,"North Indian, Chinese",200,Buffet,Electronic City
+The Dragon Palace,No,Yes,3.5/5,3530,Marathahalli,Cafe,,,Lunch,Electronic City
+New Taj Mahal Cafe,Yes,No,4.5/5,7979,MG Road,Bakery,"Sandwich, Fast Food",500,Buffet,Electronic City
+Rolls Mania,No,No,4.4/5,5548,Church Street,Bakery,Biryani,600,Lunch,JP Nagar
+Cafe Coffee Day,No,Yes,3.3/5,3371,Richmond Town,Quick Bites,North Indian,2500,Cafes,JP Nagar
+Cafe Subway,No,No,2.5/5,5016,Yelahanka,Fine Dining,"Continental, North Indian",450,Desserts,Indiranagar
+Faasos,Yes,Yes,4.9/5,7490,Electronic City,Bar,South Indian,200,Cafes,JP Nagar
+Spice Garden,No,Yes,2.6/5,987,MG Road,Fine Dining,"Mughlai, North Indian",2000,Dine-out,JP Nagar
+Box8,Yes,Yes,NEW,7709,Frazer Town,Bakery,"Biryani, North Indian",800,Buffet,Koramangala
+Corner Dragon Palace,No,No,4.4/5,4612,JP Nagar,"Pub, Bar","Italian, Pizza",900,Drinks & nightlife,BTM Layout
+Kanti Sweets,Yes,No,4.2/5,6869,Hebbal,Cafe,"Desserts, Bakery",350,Desserts,Marathahalli
+The Burger Lab,Yes,No,4.6/5,7843,BTM Layout,Desserts,,500,Lunch,Electronic City
+Chinese Hut,Yes,Yes,3.2/5,1797,Frazer Town,Casual Dining,Street Food,450,Buffet,JP Nagar
+KFC,Yes,Yes,3.1/5,1931,Sarjapur Road  ,Fine Dining,"North Indian, Chinese",450,Buffet,Marathahalli
+Barbeque Nation,No,No,4.5/5,5089,Sarjapur Road,,,"2,000",Desserts,Electronic City
+Palace Udupi Palace,Yes,No,-,2137,Rajajinagar  ,Mess,"Biryani, North Indian",600,Delivery,Banashankari
+House Donne Biryani,Yes,No,3.0/5,2139,Yelahanka,,South Indian,300,Buffet,Koramangala
+Corner Beijing Bites,No,Yes,-,3117,Basavanagudi,Delivery,Chinese,1200,Cafes,Banashankari
+Cafe Coffee Day,No,Yes,NEW,7656,Rajajinagar,Quick Bites,"North Indian, Chinese",900,Cafes,HSR Layout
+Amul,No,Yes,3.7/5,7059,Sarjapur Road,Beverage Shop,"Mughlai, North Indian",300,Dine-out,Electronic City
+Spice Garden,No,Yes,3.9/5,4049,Bellandur,"Casual Dining, Cafe","South Indian, Chinese",1500,Lunch,Indiranagar
+Corner Dominos,Yes,No,3.9/5,7547,BTM Layout,"Pub, Bar","Cafe, Beverages",200,Drinks & nightlife,HSR Layout
+Beijing Bites,No,No,3.9/5,1679,Hebbal,Fine Dining,"Seafood, Continental",250,Cafes,Koramangala
+Chai Point,Yes,No,4.7/5,1887,Electronic City,Sweet Shop,North Indian,200,Desserts,JP Nagar
+Restaurant Wrap It Up,Yes,Yes,4.6/5,4681,HSR Layout,Quick Bites,Chinese,1200,Buffet,Whitefield
+Natural Ice Cream,Yes,Yes,4.6/5,1239,Koramangala,"Pub, Bar","Sandwich, Fast Food",,Dine-out,Koramangala
+Dominos,No,No,3.0/5,1977,Church Street,Delivery,"Cafe, Beverages",150,Lunch,Koramangala
+Donne Biryani,No,No,4.5/5,6302,Domlur  ,Cafe,"Ice Cream, Desserts",350,Lunch,Whitefield
+Kanti Sweets,No,No,3.6/5,1389,Yelahanka,Bakery,"Ice Cream, Desserts",450,Desserts,Marathahalli
+Kitchen Haveli,Yes,,3.0/5,6342,Indiranagar,Beverage Shop,South Indian,,Dine-out,Whitefield
+Chai Point,No,No,4.9/5,5782,Electronic City,Sweet Shop,"North Indian, Chinese",2000,Desserts,Marathahalli
+Faasos,No,Yes,3.5/5,4358,Jayanagar  ,Cafe,Chinese,2000,Buffet,Whitefield
+Brahmin Coffee Bar,Yes,,2.8/5,243,Rajajinagar,Food Court,"Ice Cream, Desserts","1,200",Lunch,Whitefield
+Biryani Zone,Yes,No,3.3/5,2725,Majestic,Fine Dining,"Seafood, Continental",1500,Lunch,Whitefield
+Toit Brewpub,Yes,No,3.0/5,4069,Basavanagudi,"Pub, Bar","Cafe, Beverages",1200,Dine-out,Banashankari
+Starbucks,No,No,3.3/5,7761,Vijayanagar,Bakery,"Italian, Pizza",450,Buffet,Koramangala
+The India Gate,No,No,2.8/5,7426,Sarjapur Road,Bar,,1000,Buffet,JP Nagar
+Srinidhi,Yes,Yes,2.6/5,4259,Jayanagar  ,Cafe,Chinese,900,Desserts,Electronic City
+Empire Restaurant,No,Yes,2.7/5,2253,Richmond Town,"Casual Dining, Cafe","South Indian, North Indian",450,Cafes,Banashankari
+Haveli,Yes,Yes,2.5/5,5079,Electronic City  ,"Casual Dining, Cafe","Continental, North Indian",2500,Buffet,Jayanagar
+Shivaji Military Hotel,Yes,No,3.4/5,4470,RT Nagar,Desserts,North Indian,1500,Desserts,Whitefield
+McDonald's,No,Yes,2.9/5,7168,Domlur  ,Mess,"South Indian, North Indian",600,Dine-out,Marathahalli
+Pizza Hut,No,Yes,2.8/5,2190,Rajajinagar,Fine Dining,North Indian,2000,Delivery,BTM Layout
+India Gate,Yes,No,2.8/5,1709,Domlur,"Casual Dining, Cafe","Ice Cream, Desserts",2000,Drinks & nightlife,Whitefield
+India Gate,No,Yes,3.6/5,5280,Jayanagar,Bar,"Pizza, Fast Food",400,Buffet,HSR Layout
+Amul,Yes,Yes,3.7/5,754,Richmond Town  ,Mess,North Indian,800,Cafes,JP Nagar
+McDonald's,Yes,No,3.1/5,2793,Majestic,Food Court,"Bakery, Cafe","2,000",Cafes,Banashankari
+Cafe Coffee Day,Yes,No,3.8/5,5495,Sarjapur Road,Cafe,"South Indian, Chinese",2500,Desserts,HSR Layout
+Dominos,Yes,No,3.9/5,5421,Bellandur,Fine Dining,Chinese,1000,Cafes,Jayanagar
+Restaurant India Gate,No,No,3.9/5,7519,Koramangala,Delivery,"Bakery, Cafe",,Delivery,Banashankari
+Natural Ice Cream,Yes,Yes,NEW,3568,Yelahanka,Bakery,North Indian,900,Dine-out,BTM Layout
+Pizza Hut,No,No,NEW,4211,Richmond Town,"Pub, Bar",,,Buffet,Jayanagar
+Haveli,No,Yes,3.7/5,7330,Sarjapur Road  ,Fine Dining,,400,Dine-out,Banashankari
+Haveli,Yes,Yes,NEW,916,Church Street,Food Court,North Indian,300,Buffet,BTM Layout
+Chinese Hut,No,Yes,3.8/5,1012,Domlur,Quick Bites,"Biryani, North Indian",700,Drinks & nightlife,Koramangala
+Belgian Waffle,No,No,2.9/5,5868,Yelahanka,Food Court,"Italian, Pizza",700,Buffet,Koramangala
+Box8,Yes,No,2.7/5,5047,Bellandur,Quick Bites,"Cafe, Beverages",350,Dine-out,Koramangala
+Biryani Zone,No,No,3.2/5,2278,Koramangala,Quick Bites,"Cafe, Beverages",700,Desserts,Jayanagar
+The Haveli,Yes,No,4.3/5,1286,Koramangala,Fine Dining,"Continental, North Indian",900,Buffet,Jayanagar
+Dragon Palace,No,Yes,4.6/5,6359,Malleshwaram,Quick Bites,Chinese,500,Drinks & nightlife,Indiranagar
+Vidyarthi Bhavan,Yes,Yes,4.1/5,3061,Church Street,Quick Bites,"North Indian, Chinese",200,Delivery,Banashankari
+Satkar,Yes,No,3.5/5,5101,Hebbal,"Casual Dining, Cafe",North Indian,700,Cafes,JP Nagar
+Dhaba Pizza Hut,No,No,3.9/5,2817,Majestic,Bakery,"Seafood, Continental",250,Drinks & nightlife,Jayanagar
+Kitchen Natural Ice Cream,No,Yes,4.4/5,3598,RT Nagar,Cafe,"South Indian, North Indian",400,Cafes,Marathahalli
+Brahmin Coffee Bar,No,Yes,-,4573,Majestic,Quick Bites,,2500,Drinks & nightlife,Marathahalli
+Faasos,No,No,4.7/5,6667,RT Nagar,Delivery,"South Indian, North Indian",200,Cafes,BTM Layout
+Dominos,Yes,No,4.0/5,4957,Koramangala  ,Delivery,Fast Food,1500,Lunch,HSR Layout
+Starbucks,No,No,3.1/5,986,Church Street,Cafe,Street Food,200,Delivery,Whitefield
+Dominos,Yes,Yes,3.5/5,6095,Marathahalli  ,Sweet Shop,Chinese,450,Buffet,BTM Layout
+Empire Restaurant,No,No,-,1875,MG Road,Quick Bites,"Italian, Pizza",2000,Lunch,BTM Layout
+Belgian Waffle,No,No,3.4/5,2365,Yelahanka,"Pub, Bar","Bakery, Cafe",450,Dine-out,Jayanagar
+Haveli,No,Yes,2.6/5,6236,Whitefield,,Biryani,250,Cafes,JP Nagar
+Vasudev Adiga,Yes,Yes,2.7/5,4137,Church Street,"Casual Dining, Cafe","Seafood, Continental",700,Cafes,Banashankari
+Belgian Waffle,No,Yes,4.0/5,4238,MG Road,Cafe,"Seafood, Continental",250,Delivery,HSR Layout
+The Donne Biryani,No,Yes,2.9/5,5280,Yelahanka,Delivery,"Pizza, Fast Food",350,Delivery,JP Nagar
+Beijing Bites,Yes,No,4.4/5,7800,JP Nagar,Sweet Shop,North Indian,600,Drinks & nightlife,Electronic City
+Belgian Waffle,Yes,No,-,5917,Marathahalli,Sweet Shop,,,Delivery,BTM Layout
+MTR,Yes,No,3.4/5,3485,JP Nagar,Bar,"Cafe, Beverages",,Desserts,Marathahalli
+Cafe Coffee Day,Yes,Yes,3.9/5,5539,Bellandur,Desserts,Fast Food,700,Dine-out,Whitefield
+Meghana Foods,Yes,Yes,3.0/5,4009,Whitefield  ,Bar,Street Food,,Dine-out,JP Nagar
+Corner Shivaji Military Hotel,No,No,4.8/5,7027,Frazer Town,Food Court,South Indian,,Buffet,Marathahalli
+Tasty Bites,No,No,2.6/5,1463,Indiranagar  ,Mess,"Bakery, Cafe",500,Delivery,HSR Layout
+Biryani Zone,Yes,,2.7/5,5066,Indiranagar,Cafe,"Continental, North Indian",2500,Dine-out,JP Nagar
+Udupi Palace,Yes,,4.7/5,3111,Basavanagudi  ,"Casual Dining, Cafe","Continental, North Indian",1500,Delivery,Electronic City
+Hotel Dragon Palace,No,No,2.6/5,1058,BTM Layout,Quick Bites,"Italian, Pizza",1500,Cafes,Indiranagar
+Belgian Waffle,Yes,No,2.5/5,6959,RT Nagar,Mess,"Pizza, Fast Food",2500,Desserts,Koramangala
+Biryani Freshmenu,Yes,No,2.8/5,3508,Whitefield,Bakery,North Indian,900,Cafes,HSR Layout
+The Burger Lab,Yes,Yes,4.1/5,3232,Basavanagudi  ,"Pub, Bar","Mughlai, North Indian",2000,Lunch,Banashankari
+New Taj Mahal Cafe,No,,4.5/5,5922,Electronic City  ,Beverage Shop,South Indian,2500,Dine-out,BTM Layout
+Shivaji Military Hotel,Yes,No,3.4/5,4470,RT Nagar,Desserts,North Indian,1500,Desserts,Whitefield
+New Taj Mahal Cafe,Yes,Yes,2.8/5,2736,Hebbal,Quick Bites,"Cafe, Beverages",700,Dine-out,Koramangala
+Natural Ice Cream,No,Yes,3.6/5,2772,Domlur,Mess,"Cafe, Beverages",1200,Cafes,Koramangala
+House Belgian Waffle,Yes,No,2.6/5,3553,HSR Layout,Beverage Shop,"Desserts, Bakery",,Buffet,JP Nagar
+Pizza Hut,Yes,Yes,4.5/5,590,Koramangala,Bakery,"Bakery, Cafe",,Drinks & nightlife,HSR Layout
+MTR,Yes,,NEW,2501,Malleshwaram,Sweet Shop,"Continental, North Indian",250,Dine-out,Whitefield
+Pizza Hut,Yes,,3.6/5,6228,Basavanagudi,Desserts,"North Indian, Chinese",,Dine-out,Electronic City
+New Taj Mahal Cafe,Yes,No,-,311,Marathahalli,Mess,"Biryani, North Indian",200,Cafes,Koramangala
+Amul,No,Yes,3.2/5,4665,Rajajinagar,Food Court,"South Indian, Chinese",250,Desserts,Whitefield
+Faasos,No,No,4.5/5,2958,Domlur,Beverage Shop,Fast Food,900,Drinks & nightlife,Jayanagar
+Meghana Foods,No,Yes,3.1/5,630,Whitefield,Desserts,"Mughlai, North Indian",300,Desserts,JP Nagar
+Hotel Belgian Waffle,No,Yes,4.7/5,7121,Majestic,Mess,"Biryani, North Indian",500,Lunch,JP Nagar
+Natural Ice Cream,No,No,2.7/5,6675,BTM Layout  ,Delivery,"Mughlai, North Indian",400,Desserts,JP Nagar
+Amul,No,Yes,3.8/5,5703,Sarjapur Road,"Casual Dining, Cafe","Seafood, Continental",2000,Drinks & nightlife,JP Nagar
+Udupi Palace,Yes,Yes,NEW,5437,Church Street,Cafe,"Pizza, Fast Food",,Desserts,Koramangala
+Freshmenu,Yes,Yes,4.8/5,956,Frazer Town,Casual Dining,,450,Drinks & nightlife,Jayanagar
+KFC,Yes,No,2.7/5,6780,Jayanagar,Mess,"Pizza, Fast Food",250,Cafes,Jayanagar
+The The Burger Lab,No,No,4.5/5,261,Marathahalli,Bar,Chinese,350,Dine-out,BTM Layout
+Rolls Mania,No,No,3.2/5,207,Bellandur,Sweet Shop,"South Indian, Chinese",450,Buffet,Electronic City
+Eat Street,Yes,Yes,3.8/5,1969,Hebbal,Mess,Street Food,450,Delivery,Marathahalli
+India Gate,No,No,4.3/5,7314,MG Road,Bakery,Street Food,"2,000",Dine-out,Indiranagar
+MTR,No,No,2.6/5,7009,JP Nagar,,"Pizza, Fast Food",900,Delivery,Electronic City
+Natural Ice Cream,No,No,4.6/5,7738,RT Nagar,Sweet Shop,"South Indian, North Indian",250,Lunch,Indiranagar
+Beijing Bites,Yes,,4.5/5,1107,Electronic City,Casual Dining,Fast Food,900,Desserts,Koramangala
+Udupi Palace,Yes,Yes,3.3/5,1394,Whitefield,,"Mughlai, North Indian",800,Lunch,Indiranagar
+Corner Eat Street,No,Yes,3.7/5,7009,Koramangala,Desserts,Chinese,150,Drinks & nightlife,Indiranagar
+Dhaba Chai Point,No,Yes,4.6/5,133,Jayanagar,,South Indian,350,Delivery,Electronic City
+Brahmin Coffee Bar,Yes,Yes,4.0/5,3638,HSR Layout,Mess,"South Indian, Chinese",2000,Buffet,Koramangala
+Toit Brewpub,Yes,Yes,4.9/5,2978,Vijayanagar,"Pub, Bar",Biryani,700,Lunch,HSR Layout
+Meghana Foods,Yes,No,NEW,5238,Yelahanka  ,"Casual Dining, Cafe","Pizza, Fast Food",900,Buffet,Banashankari
+Dhaba Hotel Pai Vista,Yes,,3.2/5,1985,Bellandur,Fine Dining,"Italian, Pizza",400,Lunch,Indiranagar
+Barbeque Nation,Yes,No,3.8/5,7174,Electronic City,Quick Bites,Street Food,500,Drinks & nightlife,Electronic City
+India Gate,No,Yes,2.9/5,2541,Malleshwaram,Mess,"Ice Cream, Desserts","1,000",Cafes,Jayanagar
+Box8,No,No,2.6/5,959,JP Nagar,Mess,"Biryani, North Indian",800,Desserts,Banashankari
+The Wrap It Up,Yes,No,2.6/5,3380,Electronic City,Sweet Shop,,1500,Lunch,Koramangala
+Toit Brewpub,No,No,3.1/5,4565,Sarjapur Road,,"Biryani, North Indian",1200,Desserts,BTM Layout
+Corner Srinidhi,No,,4.3/5,2891,Rajajinagar,Casual Dining,"South Indian, Chinese",150,Buffet,BTM Layout
+Amul,No,,3.2/5,6164,JP Nagar,"Casual Dining, Cafe",,800,Desserts,BTM Layout
+Freshmenu,No,No,4.8/5,6052,Marathahalli,Bakery,"Seafood, Continental",150,Dine-out,Jayanagar
+Rolls Mania,Yes,Yes,4.3/5,5569,Church Street,Sweet Shop,Fast Food,250,Drinks & nightlife,Electronic City
+House Punjab Grill,No,No,3.6/5,6877,Malleshwaram,Bakery,Street Food,700,Buffet,Indiranagar
+Vasudev Adiga,No,Yes,3.2/5,3374,Church Street,Mess,"Pizza, Fast Food",500,Delivery,Koramangala
+Brahmin Coffee Bar,No,Yes,3.2/5,3906,Indiranagar,Delivery,"Italian, Pizza",450,Buffet,Koramangala
+Corner Punjab Grill,No,Yes,3.4/5,3738,Rajajinagar,Bakery,"Ice Cream, Desserts",350,Desserts,Jayanagar
+Corner Eat Street,Yes,,3.1/5,7327,Sarjapur Road,Bakery,"Biryani, North Indian",1000,Buffet,Koramangala
+Dragon Palace,No,No,3.1/5,5435,Rajajinagar,,"North Indian, Chinese",700,Desserts,Marathahalli
+Dhaba Box8,No,No,4.4/5,7717,Yelahanka,"Casual Dining, Cafe","Bakery, Cafe",2500,Lunch,Koramangala
+Rolls Mania,No,,4.3/5,454,Church Street  ,Mess,"Cafe, Beverages",2000,Drinks & nightlife,Marathahalli
+Subway,No,No,4.4/5,2994,Rajajinagar,Cafe,"Biryani, North Indian",200,Cafes,Koramangala
+Dhaba The Burger Lab,No,Yes,2.8/5,2013,Church Street,Mess,"Pizza, Fast Food",250,Cafes,HSR Layout
+Haveli,No,Yes,3.0/5,6262,Richmond Town,Food Court,North Indian,400,Dine-out,Whitefield
+Donne Biryani,Yes,No,2.7/5,2335,Koramangala,Bakery,"South Indian, Chinese",,Buffet,Whitefield
+Starbucks,Yes,No,3.6/5,372,JP Nagar,Desserts,"Ice Cream, Desserts",2500,Buffet,Marathahalli
+Punjabi Tadka,No,No,4.6/5,2390,Sarjapur Road,Casual Dining,"Cafe, Beverages",400,Dine-out,Marathahalli
+Punjab Grill,Yes,Yes,3.9/5,6904,Malleshwaram,Desserts,Biryani,500,Delivery,Electronic City
+Chai Point,Yes,Yes,2.8/5,1252,Basavanagudi,Food Court,"Desserts, Bakery",900,Dine-out,HSR Layout
+Chinese Hut,Yes,Yes,4.3/5,3747,Vijayanagar,"Pub, Bar",Fast Food,1000,Dine-out,Jayanagar
+Freshmenu,Yes,,-,1367,Domlur,Bakery,"Cafe, Beverages",400,Drinks & nightlife,Banashankari
+The Burger Lab,Yes,No,4.7/5,6116,Sarjapur Road,"Casual Dining, Cafe",South Indian,350,Cafes,Indiranagar
+New Taj Mahal Cafe,No,No,3.3/5,7406,Bellandur,Bar,"Continental, North Indian","1,500",Dine-out,Indiranagar
+Natural Ice Cream,No,No,NEW,2056,MG Road,Quick Bites,"Cafe, Beverages",250,Desserts,HSR Layout
+Restaurant Barbeque Nation,Yes,Yes,,2382,Indiranagar,Mess,,150,Delivery,HSR Layout
+Natural Ice Cream,Yes,Yes,3.6/5,3040,Rajajinagar,Desserts,"Cafe, Beverages",350,Delivery,Koramangala
+Donne Biryani,Yes,Yes,2.6/5,6678,Basavanagudi,"Pub, Bar",Biryani,500,Lunch,Electronic City
+Vasudev Adiga,No,,3.2/5,5776,Sarjapur Road,"Pub, Bar","Biryani, North Indian",600,Delivery,HSR Layout
+Belgian Waffle,No,Yes,NEW,6096,Jayanagar,,,300,Cafes,JP Nagar
+The Tasty Bites,No,No,4.1/5,821,Majestic,Fine Dining,"Pizza, Fast Food",500,Buffet,Indiranagar
+Biryani Meghana Foods,Yes,Yes,4.0/5,4133,Church Street  ,Delivery,Street Food,300,Desserts,Indiranagar
+The Faasos,No,Yes,4.0/5,6446,Jayanagar,Fine Dining,"Continental, North Indian",250,Cafes,Whitefield
+Wrap It Up,Yes,No,4.1/5,352,JP Nagar,Fine Dining,Biryani,800,Cafes,Whitefield
+Beijing Bites,Yes,No,3.7/5,5207,Yelahanka,Food Court,"Mughlai, North Indian",1200,Desserts,Marathahalli
+Box8,Yes,Yes,2.8/5,6971,MG Road  ,Delivery,"Mughlai, North Indian",2500,Drinks & nightlife,Marathahalli
+Dragon Palace,Yes,No,3.3/5,5644,Hebbal,"Casual Dining, Cafe",Biryani,400,Dine-out,Electronic City
+Eat Street,No,Yes,3.9/5,2493,MG Road,Fine Dining,"Cafe, Beverages",600,Buffet,BTM Layout
+Pizza Hut,No,No,3.8/5,6059,BTM Layout,Casual Dining,North Indian,350,Dine-out,Indiranagar
+Natural Ice Cream,No,Yes,3.8/5,984,Electronic City,Delivery,Street Food,600,Lunch,Whitefield
+Corner House,No,No,-,7333,Rajajinagar,Food Court,"South Indian, Chinese",1000,Drinks & nightlife,Koramangala
+India Gate,Yes,,3.8/5,583,Rajajinagar,"Casual Dining, Cafe","Ice Cream, Desserts",700,Lunch,Banashankari
+Shivaji Military Hotel,Yes,No,2.9/5,5797,Domlur,Bar,"Pizza, Fast Food",200,Delivery,Indiranagar
+Palace Tasty Bites,No,Yes,4.0/5,1712,Banashankari,,"North Indian, Chinese",250,Dine-out,HSR Layout
+Chinese Hut,No,No,4.6/5,3233,BTM Layout,Beverage Shop,South Indian,800,Lunch,BTM Layout
+Palace Punjab Grill,Yes,Yes,3.3/5,899,Yelahanka,Bar,"North Indian, Chinese",700,Drinks & nightlife,JP Nagar
+Chinese Hut,Yes,No,4.5/5,1014,Electronic City,Fine Dining,"Sandwich, Fast Food",2500,Dine-out,Marathahalli
+Dragon Palace,Yes,Yes,2.8/5,5859,Church Street,Desserts,"Ice Cream, Desserts",700,Dine-out,Indiranagar
+Empire Restaurant,No,No,4.1/5,7789,Domlur  ,,"Bakery, Cafe",,Lunch,HSR Layout
+Restaurant Tasty Bites,Yes,No,-,7312,Electronic City,Quick Bites,Biryani,,Lunch,Marathahalli
+Barbeque Nation,No,No,3.1/5,6772,Domlur,Mess,"Italian, Pizza",400,Dine-out,Jayanagar
+Freshmenu,Yes,,4.4/5,4312,Banashankari,Mess,Fast Food,450,Buffet,HSR Layout
+Spice Garden,No,Yes,3.7/5,6102,Yelahanka,Bar,"Italian, Pizza",2500,Lunch,JP Nagar
+Barbeque Nation,No,No,3.1/5,6772,Domlur,Mess,"Italian, Pizza",400,Dine-out,Jayanagar
+Biryani Zone,Yes,No,-,7878,Marathahalli,Sweet Shop,Fast Food,700,Desserts,BTM Layout
+Spice Garden,No,Yes,4.5/5,3713,Basavanagudi,Cafe,"Seafood, Continental",500,Delivery,HSR Layout
+Udupi Palace,Yes,No,NEW,4521,MG Road  ,Bar,"Biryani, North Indian",900,Lunch,Whitefield
+Subway,No,,4.7/5,3179,Marathahalli,Sweet Shop,South Indian,400,Dine-out,Whitefield
+Palace Punjabi Tadka,Yes,Yes,-,4033,Domlur,Fine Dining,Chinese,700,Lunch,Koramangala
+Vidyarthi Bhavan,Yes,Yes,3.5/5,1307,Electronic City,Mess,"Sandwich, Fast Food",1000,Dine-out,Indiranagar
+Koshy's,Yes,No,3.5/5,3788,Bellandur,Bar,"North Indian, Chinese",900,Cafes,BTM Layout
+Kanti Sweets,No,Yes,3.1/5,571,Hebbal,Bakery,"Ice Cream, Desserts",350,Delivery,Electronic City
+Dragon Palace,Yes,No,4.2/5,3432,Marathahalli,,"Mughlai, North Indian","1,500",Drinks & nightlife,BTM Layout
+Subway,Yes,No,3.3/5,5233,Bellandur,"Casual Dining, Cafe",Biryani,700,Desserts,Marathahalli
+Empire Restaurant,Yes,No,4.4/5,3466,MG Road  ,"Casual Dining, Cafe","Pizza, Fast Food",1200,Lunch,JP Nagar
+Biryani Zone,Yes,No,4.6/5,5390,Richmond Town,Bakery,"Italian, Pizza",150,Delivery,Electronic City
+Chai Point,No,No,-,6654,Vijayanagar,Mess,"Sandwich, Fast Food",200,Dine-out,BTM Layout
+Chinese Hut,Yes,Yes,4.3/5,105,Indiranagar,Sweet Shop,"Bakery, Cafe",450,Cafes,Jayanagar
+McDonald's,No,,4.6/5,961,Richmond Town,Mess,"Sandwich, Fast Food",300,Desserts,Whitefield
+Biryani Zone,Yes,,3.7/5,2352,Malleshwaram,Mess,"Italian, Pizza",1200,Cafes,Jayanagar
+Cafe Coffee Day,Yes,Yes,4.0/5,409,HSR Layout,Cafe,North Indian,150,Cafes,Banashankari
+Vasudev Adiga,Yes,No,4.1/5,2844,Vijayanagar  ,Fine Dining,"Bakery, Cafe",600,Drinks & nightlife,Jayanagar
+Punjabi Tadka,No,,2.9/5,2734,Malleshwaram,,"Continental, North Indian",1200,Desserts,Whitefield
+India Gate,No,Yes,4.6/5,250,BTM Layout,Beverage Shop,,300,Desserts,Electronic City
+Punjab Grill,No,No,3.4/5,6834,Richmond Town,Casual Dining,"South Indian, North Indian",300,Cafes,Electronic City
+Subway,No,No,3.0/5,1218,Sarjapur Road,Quick Bites,"Desserts, Bakery","1,000",Delivery,Jayanagar
+House Udupi Palace,No,No,2.9/5,3828,Jayanagar  ,Fine Dining,Biryani,350,Buffet,Marathahalli
+The Burger Lab,No,No,2.7/5,6335,Bellandur,Fine Dining,Fast Food,,Desserts,HSR Layout
+Amul,Yes,Yes,2.9/5,3874,Rajajinagar,Beverage Shop,Chinese,300,Buffet,Electronic City
+Toit Brewpub,Yes,Yes,3.9/5,824,HSR Layout,Fine Dining,,"2,500",Dine-out,JP Nagar
+The Burger Lab,Yes,Yes,4.8/5,7813,Richmond Town,Bakery,"Sandwich, Fast Food",450,Lunch,BTM Layout
+Palace Vasudev Adiga,No,Yes,2.9/5,4293,Whitefield,Casual Dining,South Indian,500,Cafes,HSR Layout
+Amul,Yes,No,4.2/5,7059,Rajajinagar,Desserts,"Biryani, North Indian",250,Desserts,Marathahalli
+Donne Biryani,Yes,Yes,4.7/5,525,Marathahalli,"Pub, Bar",Street Food,2000,Drinks & nightlife,Electronic City
+Subway,Yes,No,4.4/5,7526,HSR Layout,Bakery,"Continental, North Indian",150,Dine-out,Koramangala
+Truffles,Yes,Yes,4.0/5,4073,Frazer Town,,"Desserts, Bakery",2000,Delivery,HSR Layout
+Chai Point,Yes,No,4.7/5,2817,Basavanagudi,Cafe,"Sandwich, Fast Food",800,Lunch,Electronic City
+Natural Ice Cream,No,Yes,4.9/5,4933,Yelahanka,Sweet Shop,,400,Desserts,BTM Layout
+Satkar,No,No,4.8/5,1,Hebbal,Quick Bites,North Indian,450,Delivery,Marathahalli
+Udupi Palace,No,Yes,3.3/5,3957,BTM Layout,,Biryani,500,Drinks & nightlife,BTM Layout
+Eat Street,No,No,3.4/5,4167,Domlur  ,"Pub, Bar","Continental, North Indian","1,000",Buffet,Marathahalli
+Hotel Natural Ice Cream,Yes,No,,3155,Richmond Town,Casual Dining,"Seafood, Continental",200,Dine-out,Jayanagar
+The Burger Lab,Yes,No,4.4/5,4109,HSR Layout,,"Desserts, Bakery",450,Dine-out,Indiranagar
+Box8,No,No,4.2/5,285,Vijayanagar,Bakery,"Pizza, Fast Food",700,Lunch,Marathahalli
+Faasos,Yes,No,4.3/5,1440,Basavanagudi,Mess,Biryani,150,Delivery,Koramangala
+The Donne Biryani,Yes,No,4.7/5,3453,Malleshwaram,Casual Dining,North Indian,400,Drinks & nightlife,Banashankari
+Box8,No,,4.5/5,2368,Bellandur,Beverage Shop,"Bakery, Cafe",800,Delivery,Jayanagar
+Dhaba Toit Brewpub,No,Yes,4.3/5,7633,Majestic,Sweet Shop,"Seafood, Continental",2500,Lunch,Jayanagar
+House Vasudev Adiga,Yes,Yes,-,1274,Banashankari  ,Beverage Shop,"Sandwich, Fast Food",250,Buffet,Indiranagar
+Palace Donne Biryani,No,Yes,3.5/5,6454,Marathahalli,"Casual Dining, Cafe","Cafe, Beverages",700,Lunch,JP Nagar
+New Taj Mahal Cafe,Yes,Yes,2.7/5,3911,Banashankari,Mess,Chinese,200,Dine-out,JP Nagar
+Box8,Yes,Yes,4.7/5,1980,Frazer Town,"Casual Dining, Cafe","Ice Cream, Desserts",600,Delivery,BTM Layout
+Rolls Mania,Yes,Yes,3.6/5,728,Banashankari,Sweet Shop,"Cafe, Beverages",1200,Delivery,Banashankari
+The Corner House,No,No,3.9/5,2661,Whitefield,"Casual Dining, Cafe","Seafood, Continental",2000,Lunch,HSR Layout
+Punjab Grill,Yes,No,3.4/5,1177,BTM Layout,Mess,North Indian,150,Cafes,Marathahalli
+House Punjab Grill,No,No,3.5/5,7151,Bellandur,Bakery,"Pizza, Fast Food",250,Cafes,Indiranagar
+Corner Chinese Hut,Yes,No,3.6/5,3595,Richmond Town,Desserts,"South Indian, Chinese",1200,Buffet,Electronic City
+Natural Ice Cream,No,Yes,3.8/5,984,Electronic City,Delivery,Street Food,600,Lunch,Whitefield
+Corner Biryani Zone,No,Yes,3.0/5,4576,Electronic City,Bakery,"South Indian, Chinese",250,Desserts,HSR Layout
+Punjabi Tadka,No,,2.7/5,2936,HSR Layout  ,Mess,South Indian,800,Drinks & nightlife,Whitefield
+India Gate,No,No,4.0/5,5429,Majestic  ,Food Court,"Mughlai, North Indian",700,Delivery,Koramangala
+Kanti Sweets,No,Yes,4.8/5,6895,Banashankari,Beverage Shop,"Pizza, Fast Food",1500,Drinks & nightlife,Banashankari
+House Natural Ice Cream,No,No,NEW,1072,Marathahalli,Sweet Shop,South Indian,"1,200",Cafes,JP Nagar
+KFC,No,Yes,4.4/5,886,Malleshwaram,Bakery,"Italian, Pizza",450,Lunch,Whitefield
+House Spice Garden,Yes,No,3.6/5,4895,JP Nagar,Bakery,North Indian,2000,Drinks & nightlife,BTM Layout
+Srinidhi,Yes,Yes,3.7/5,7114,Whitefield,Mess,,450,Delivery,Marathahalli
+Rolls Mania,No,Yes,4.6/5,6294,HSR Layout  ,Cafe,"Biryani, North Indian",600,Desserts,HSR Layout
+Biryani Zone,Yes,,3.7/5,2352,Malleshwaram,Mess,"Italian, Pizza",1200,Cafes,Jayanagar
+Freshmenu,Yes,Yes,2.8/5,2604,Banashankari,"Pub, Bar",Biryani,1000,Desserts,Koramangala
+Kitchen Pizza Hut,No,Yes,,1914,BTM Layout,Beverage Shop,"Pizza, Fast Food",150,Drinks & nightlife,Koramangala
+Kitchen Kamat Upachar,Yes,No,3.9/5,3873,Koramangala,"Casual Dining, Cafe","Mughlai, North Indian",700,Dine-out,Jayanagar
+The Burger Lab,No,No,4.4/5,5450,MG Road  ,"Casual Dining, Cafe","Pizza, Fast Food",1500,Lunch,HSR Layout
+Cafe Subway,No,No,2.5/5,5016,Yelahanka,Fine Dining,"Continental, North Indian",450,Desserts,Indiranagar
+Hotel Amul,Yes,No,4.2/5,4780,Bellandur,Cafe,"South Indian, North Indian",150,Buffet,Banashankari
+Biryani Zone,No,No,2.8/5,5805,Jayanagar,"Casual Dining, Cafe",North Indian,400,Buffet,Whitefield
+Shivaji Military Hotel,Yes,No,4.1/5,1247,Indiranagar,Quick Bites,Biryani,1000,Desserts,HSR Layout
+Pizza Hut,Yes,Yes,2.7/5,7314,HSR Layout,Quick Bites,"Bakery, Cafe",1000,Lunch,JP Nagar
+Cafe Kamat Upachar,No,Yes,4.3/5,6097,Majestic,Bakery,Biryani,,Desserts,Jayanagar
+McDonald's,Yes,Yes,3.2/5,3160,JP Nagar,Cafe,"Biryani, North Indian",900,Dine-out,Whitefield
+Donne Biryani,No,,3.0/5,3729,Marathahalli,Bar,,300,Buffet,Marathahalli
+Kanti Sweets,No,Yes,3.7/5,6430,Sarjapur Road,"Pub, Bar",Biryani,800,Delivery,Marathahalli
+The Burger Lab,No,No,4.8/5,4806,MG Road,Desserts,"Seafood, Continental","2,500",Dine-out,Electronic City
+Hotel Dragon Palace,No,,3.2/5,89,Frazer Town,Bar,Biryani,"1,000",Delivery,Koramangala
+Natural Ice Cream,Yes,Yes,3.3/5,3230,Bellandur,Bakery,"Continental, North Indian",2000,Lunch,Koramangala
+Palace Tasty Bites,No,No,3.4/5,892,Jayanagar,"Casual Dining, Cafe",Chinese,450,Drinks & nightlife,Electronic City
+Dominos,No,Yes,2.6/5,7123,Electronic City,Bar,"Mughlai, North Indian",500,Dine-out,Marathahalli
+The Spice Garden,No,No,NEW,4768,Yelahanka  ,Bakery,North Indian,,Delivery,Indiranagar
+Subway,Yes,Yes,4.5/5,3291,Majestic,Desserts,"Mughlai, North Indian",150,Lunch,Jayanagar
+Chinese Hut,No,No,3.4/5,3665,Marathahalli,Quick Bites,,200,Drinks & nightlife,Indiranagar
+Barbeque Nation,No,No,2.9/5,5704,HSR Layout,"Pub, Bar","Desserts, Bakery",,Delivery,Marathahalli
+Punjabi Tadka,No,Yes,NEW,4431,Sarjapur Road,Bakery,"Ice Cream, Desserts",2000,Buffet,Indiranagar
+Biryani Satkar,Yes,Yes,,2030,HSR Layout,"Casual Dining, Cafe","Pizza, Fast Food",1500,Buffet,Koramangala
+Cafe Tasty Bites,Yes,No,3.9/5,7397,Marathahalli,Bakery,Street Food,500,Desserts,Marathahalli
+Spice Garden,No,No,2.6/5,5897,JP Nagar,Delivery,Chinese,200,Lunch,Jayanagar
+Dominos,No,No,2.9/5,2475,Indiranagar,Bar,"Cafe, Beverages",1200,Cafes,Whitefield
+Kitchen Srinidhi,No,Yes,4.4/5,933,Indiranagar  ,Fine Dining,Chinese,1500,Desserts,Whitefield
+Starbucks,Yes,No,NEW,3216,Yelahanka,"Casual Dining, Cafe",Fast Food,1500,Dine-out,Banashankari
+Subway,No,No,4.2/5,2169,Bellandur,Desserts,North Indian,,Desserts,Koramangala
+Spice Garden,No,Yes,4.6/5,552,BTM Layout,Bakery,"Mughlai, North Indian",450,Drinks & nightlife,Indiranagar
+Corner Belgian Waffle,No,No,3.4/5,3342,Sarjapur Road,Bakery,Biryani,1000,Desserts,Whitefield
+Udupi Palace,No,Yes,NEW,2665,Banashankari,Bar,"Pizza, Fast Food",200,Drinks & nightlife,Indiranagar
+Satkar,Yes,No,,988,Jayanagar,Casual Dining,"South Indian, Chinese",400,Cafes,Whitefield
+The Punjab Grill,No,No,2.7/5,3952,Koramangala,Mess,North Indian,250,Cafes,JP Nagar
+Starbucks,Yes,No,4.9/5,3719,Basavanagudi,Sweet Shop,"Desserts, Bakery",,Dine-out,Whitefield
+Freshmenu,Yes,Yes,2.9/5,6999,Richmond Town,Mess,"Mughlai, North Indian",2000,Delivery,Marathahalli
+Shivaji Military Hotel,Yes,No,,2472,Yelahanka,Quick Bites,,800,Drinks & nightlife,HSR Layout
+Kamat Upachar,Yes,,4.2/5,3553,Church Street,Sweet Shop,"Biryani, North Indian",2000,Delivery,BTM Layout
+Kitchen Faasos,Yes,No,2.9/5,6245,Richmond Town,Desserts,"Seafood, Continental",450,Dine-out,BTM Layout
+Cafe Biryani Zone,No,Yes,4.6/5,3673,Whitefield  ,Food Court,Chinese,,Desserts,Indiranagar
+House Dominos,Yes,Yes,3.4/5,7005,BTM Layout,Fine Dining,"Desserts, Bakery",350,Lunch,JP Nagar
+Restaurant Eat Street,Yes,Yes,3.6/5,1579,Domlur,Quick Bites,"Italian, Pizza",500,Buffet,Banashankari
+Kitchen Barbeque Nation,No,,2.7/5,4790,Malleshwaram,Sweet Shop,"South Indian, Chinese",1200,Lunch,JP Nagar
+Restaurant Cafe Coffee Day,No,,,3530,Basavanagudi,Sweet Shop,"Cafe, Beverages",900,Cafes,Marathahalli
+Donne Biryani,Yes,Yes,2.6/5,1914,Yelahanka  ,Desserts,"Seafood, Continental",,Desserts,Banashankari
+Kitchen Kamat Upachar,Yes,Yes,4.3/5,2507,Majestic  ,Desserts,"Bakery, Cafe",450,Cafes,BTM Layout
+Vidyarthi Bhavan,No,No,3.3/5,4206,Vijayanagar,Food Court,"Desserts, Bakery",1000,Lunch,BTM Layout
+Kitchen Chinese Hut,Yes,No,2.7/5,7833,JP Nagar  ,Sweet Shop,"Desserts, Bakery",200,Drinks & nightlife,BTM Layout
+Natural Ice Cream,Yes,Yes,2.5/5,94,Jayanagar,Delivery,Chinese,400,Dine-out,Electronic City
+Srinidhi,No,No,2.9/5,1637,Basavanagudi,Cafe,North Indian,500,Desserts,Marathahalli
+Kitchen Satkar,Yes,No,3.7/5,2562,Hebbal,"Pub, Bar","Sandwich, Fast Food",900,Cafes,Koramangala
+Corner Chinese Hut,No,Yes,3.7/5,6018,Bellandur,Sweet Shop,"Seafood, Continental",2000,Delivery,Marathahalli
+Palace Corner House,No,No,4.8/5,2469,Basavanagudi,Desserts,"Biryani, North Indian",900,Buffet,Indiranagar
+Beijing Bites,No,Yes,4.0/5,917,Richmond Town,"Pub, Bar","Sandwich, Fast Food",400,Buffet,Koramangala
+Restaurant Dominos,No,Yes,3.4/5,28,HSR Layout,Sweet Shop,"South Indian, Chinese",600,Cafes,HSR Layout
+Barbeque Nation,No,No,3.7/5,4114,Church Street,Beverage Shop,"Italian, Pizza",450,Desserts,HSR Layout
+Belgian Waffle,Yes,No,2.8/5,5445,Electronic City,Sweet Shop,"Continental, North Indian",,Dine-out,HSR Layout
+Punjabi Tadka,No,No,4.7/5,1007,Majestic,"Casual Dining, Cafe",,1200,Delivery,Koramangala
+New Taj Mahal Cafe,Yes,Yes,4.6/5,3178,Marathahalli,Quick Bites,"South Indian, Chinese",350,Cafes,HSR Layout
+Amul,Yes,,2.7/5,619,HSR Layout,Casual Dining,,250,Desserts,Banashankari
+Haveli,Yes,Yes,4.3/5,5524,Sarjapur Road,Beverage Shop,"Sandwich, Fast Food",2000,Cafes,JP Nagar
+MTR,No,No,2.6/5,3503,Jayanagar,Beverage Shop,"South Indian, Chinese",700,Buffet,Indiranagar
+Cafe Coffee Day,No,Yes,3.1/5,1925,MG Road,Beverage Shop,"Desserts, Bakery",600,Dine-out,Jayanagar
+Corner Hotel Pai Vista,No,No,4.0/5,6431,Majestic,Bakery,Biryani,1200,Desserts,HSR Layout
+Hotel Eat Street,No,Yes,2.9/5,6732,MG Road,Mess,"Italian, Pizza",350,Desserts,Koramangala
+Meghana Foods,No,Yes,3.6/5,1646,Domlur,Bakery,"Mughlai, North Indian","2,500",Lunch,BTM Layout
+Empire Restaurant,No,No,4.1/5,7789,Domlur  ,,"Bakery, Cafe",,Lunch,HSR Layout
+McDonald's,No,No,3.4/5,7115,Yelahanka,Bakery,Biryani,200,Delivery,Jayanagar
+Punjabi Tadka,No,No,2.7/5,4585,Bellandur  ,Fine Dining,South Indian,600,Delivery,BTM Layout
+Biryani Brahmin Coffee Bar,Yes,No,4.3/5,6131,Church Street,Beverage Shop,Chinese,500,Lunch,Electronic City
+Corner Eat Street,Yes,Yes,4.2/5,4406,Malleshwaram,"Casual Dining, Cafe","Biryani, North Indian",500,Desserts,Indiranagar
+Hotel Pai Vista,No,No,3.7/5,7029,Domlur,Bar,"Cafe, Beverages",1000,Cafes,Banashankari
+Biryani Zone,Yes,Yes,2.8/5,1300,Basavanagudi,Food Court,"Bakery, Cafe",,Dine-out,Jayanagar
+Meghana Foods,Yes,No,2.8/5,1799,Rajajinagar,Quick Bites,"South Indian, Chinese",2000,Cafes,Marathahalli
+House Vasudev Adiga,No,No,4.7/5,1439,Frazer Town,"Pub, Bar",North Indian,,Lunch,Banashankari
+Dragon Palace,No,Yes,3.9/5,6012,JP Nagar,Casual Dining,"Biryani, North Indian",1500,Dine-out,Banashankari
+Haveli,No,Yes,3.3/5,236,Basavanagudi,Desserts,"Continental, North Indian",450,Buffet,Whitefield
+McDonald's,Yes,No,4.8/5,3344,Richmond Town,Fine Dining,"South Indian, North Indian",600,Dine-out,HSR Layout
+Rolls Mania,Yes,No,4.3/5,938,Vijayanagar,Desserts,"Continental, North Indian","1,000",Desserts,Marathahalli
+Srinidhi,No,No,4.2/5,686,Vijayanagar,Bakery,Fast Food,2000,Delivery,Indiranagar
+Brahmin Coffee Bar,No,No,2.8/5,7980,Rajajinagar,Food Court,Biryani,800,Dine-out,Koramangala
+McDonald's,Yes,,4.8/5,237,Richmond Town,"Casual Dining, Cafe","Continental, North Indian",,Desserts,Jayanagar
+Belgian Waffle,Yes,,-,2682,Hebbal,"Casual Dining, Cafe","Continental, North Indian",700,Buffet,Electronic City
+Shivaji Military Hotel,No,Yes,3.1/5,6965,Richmond Town  ,Cafe,"South Indian, Chinese","1,500",Lunch,Indiranagar
+Beijing Bites,Yes,No,,165,Indiranagar,"Pub, Bar","South Indian, North Indian",250,Desserts,Banashankari
+Barbeque Nation,Yes,No,3.9/5,1136,Hebbal,Cafe,,350,Desserts,JP Nagar
+Satkar,Yes,No,3.7/5,661,Rajajinagar,,"South Indian, North Indian",1000,Cafes,Koramangala
+Empire Restaurant,No,Yes,3.9/5,4648,Koramangala,Sweet Shop,"South Indian, Chinese",700,Desserts,JP Nagar
+Rolls Mania,Yes,No,4.7/5,3147,Koramangala,Bar,"Bakery, Cafe",1200,Lunch,HSR Layout
+Palace Punjab Grill,Yes,Yes,3.3/5,899,Yelahanka,Bar,"North Indian, Chinese",700,Drinks & nightlife,JP Nagar
+Kamat Upachar,Yes,Yes,3.4/5,7431,Indiranagar,Quick Bites,"Seafood, Continental",1500,Dine-out,HSR Layout
+Truffles,No,No,4.6/5,5291,Jayanagar,Bakery,"Sandwich, Fast Food",1200,Drinks & nightlife,Electronic City
+Satkar,No,Yes,3.6/5,4403,Malleshwaram,Desserts,"Pizza, Fast Food",600,Buffet,Banashankari
+Cafe Coffee Day,Yes,,4.9/5,3814,Frazer Town,Beverage Shop,"Sandwich, Fast Food",,Dine-out,Koramangala
+Kitchen Koshy's,Yes,No,4.8/5,3364,Jayanagar,Cafe,Fast Food,800,Buffet,HSR Layout
+Corner House,Yes,Yes,4.7/5,105,Richmond Town,Casual Dining,"South Indian, Chinese","2,000",Dine-out,Jayanagar
+Corner Chai Point,No,,3.9/5,1607,Jayanagar,Food Court,"Cafe, Beverages",1200,Delivery,Indiranagar
+Rolls Mania,Yes,Yes,2.9/5,7920,Malleshwaram,Mess,"South Indian, North Indian",250,Desserts,Whitefield
+Faasos,No,Yes,4.8/5,3845,HSR Layout,Quick Bites,"Biryani, North Indian",500,Cafes,BTM Layout
+Kitchen Toit Brewpub,Yes,Yes,3.2/5,6644,Rajajinagar,Cafe,Biryani,700,Delivery,Whitefield
+Rolls Mania,Yes,No,4.8/5,7574,Marathahalli,"Casual Dining, Cafe","Ice Cream, Desserts",1000,Buffet,BTM Layout
+Cafe Vidyarthi Bhavan,No,No,3.9/5,2428,Hebbal,Bakery,"South Indian, Chinese",500,Lunch,Whitefield
+Kitchen Empire Restaurant,Yes,No,3.1/5,1804,Banashankari,Cafe,"Continental, North Indian",350,Cafes,JP Nagar
+KFC,Yes,,3.8/5,6764,Majestic,Food Court,"Pizza, Fast Food",350,Dine-out,HSR Layout
+KFC,Yes,No,4.4/5,2920,Majestic,Desserts,South Indian,1500,Delivery,BTM Layout
+Meghana Foods,Yes,Yes,4.9/5,3714,RT Nagar,Beverage Shop,,800,Desserts,JP Nagar
+India Gate,Yes,Yes,4.4/5,2109,Majestic,Fine Dining,North Indian,700,Dine-out,Indiranagar
+Vidyarthi Bhavan,No,No,4.4/5,3056,Domlur,Delivery,,700,Desserts,Indiranagar
+Rolls Mania,Yes,Yes,2.8/5,4179,Rajajinagar,Quick Bites,"Bakery, Cafe",1500,Cafes,JP Nagar
+Dragon Palace,No,Yes,3.3/5,4882,JP Nagar,Bakery,Fast Food,700,Desserts,Banashankari
+Truffles,Yes,Yes,2.5/5,6544,Richmond Town,Fine Dining,"Italian, Pizza",1000,Lunch,Indiranagar
+Cafe Truffles,Yes,No,4.0/5,7351,Basavanagudi,Fine Dining,"Biryani, North Indian",500,Dine-out,Jayanagar
+Meghana Foods,Yes,Yes,2.9/5,6731,Basavanagudi,Bakery,South Indian,900,Lunch,Koramangala
+Donne Biryani,No,No,4.5/5,4089,Rajajinagar,,Chinese,,Desserts,JP Nagar
+Cafe KFC,No,No,4.0/5,5791,Frazer Town,Mess,"Bakery, Cafe",500,Delivery,HSR Layout
+Koshy's,Yes,No,4.1/5,5109,Basavanagudi,Quick Bites,South Indian,,Lunch,Marathahalli
+Box8,Yes,No,3.3/5,2514,RT Nagar,Bakery,"South Indian, Chinese",150,Dine-out,Marathahalli
+Pizza Hut,Yes,No,4.1/5,5043,MG Road,Delivery,"South Indian, Chinese",,Delivery,Koramangala
+Haveli,No,No,4.7/5,341,Banashankari,Bar,North Indian,700,Lunch,BTM Layout
+Biryani Biryani Zone,Yes,Yes,2.7/5,749,Banashankari,Food Court,"Seafood, Continental",1000,Lunch,Jayanagar
+Corner Box8,Yes,Yes,4.0/5,3369,Rajajinagar,Fine Dining,Street Food,1500,Lunch,Electronic City
+Kitchen Pizza Hut,No,Yes,3.5/5,317,Church Street,Cafe,"South Indian, Chinese",,Lunch,Whitefield
+Dominos,No,No,3.5/5,6496,Frazer Town,Bar,"North Indian, Chinese",600,Lunch,HSR Layout
+Corner House,No,No,2.8/5,1939,Hebbal,Quick Bites,"Italian, Pizza",150,Lunch,Whitefield
+Corner Subway,Yes,Yes,4.6/5,4406,Malleshwaram,Food Court,Chinese,1500,Buffet,HSR Layout
+Corner Biryani Zone,Yes,Yes,NEW,7268,RT Nagar,Mess,Street Food,200,Cafes,Koramangala
+KFC,Yes,No,3.7/5,1947,RT Nagar,Bar,"Mughlai, North Indian",700,Dine-out,Koramangala
+The Truffles,No,Yes,4.0/5,42,Basavanagudi,Bar,Fast Food,2000,Dine-out,BTM Layout
+The New Taj Mahal Cafe,Yes,Yes,3.2/5,5442,Indiranagar,Fine Dining,"Cafe, Beverages",600,Dine-out,Koramangala
+Kanti Sweets,No,No,3.5/5,5291,Whitefield,Fine Dining,Fast Food,"1,200",Cafes,Marathahalli
+Biryani Zone,No,No,3.5/5,1494,Sarjapur Road,Fine Dining,"Ice Cream, Desserts",800,Dine-out,JP Nagar
+Dhaba Corner House,No,No,4.0/5,3022,Electronic City,Delivery,"Biryani, North Indian",800,Dine-out,JP Nagar
+Pizza Hut,No,Yes,2.6/5,4876,Sarjapur Road,"Casual Dining, Cafe","Continental, North Indian",800,Lunch,JP Nagar
+Satkar,No,No,3.9/5,5902,JP Nagar  ,Desserts,"Italian, Pizza",1500,Cafes,HSR Layout
+Hotel Wrap It Up,Yes,No,,5203,BTM Layout  ,Casual Dining,"Biryani, North Indian",800,Drinks & nightlife,Marathahalli
+Donne Biryani,No,Yes,3.2/5,5844,Marathahalli,Mess,"Continental, North Indian",,Lunch,BTM Layout
+Rolls Mania,Yes,No,4.6/5,6477,Vijayanagar,Beverage Shop,"Seafood, Continental",800,Delivery,JP Nagar
+Biryani Hotel Pai Vista,Yes,Yes,2.9/5,4569,Frazer Town,Quick Bites,"Seafood, Continental",500,Desserts,BTM Layout
+Corner Satkar,Yes,No,3.8/5,629,Yelahanka,Food Court,"Sandwich, Fast Food","2,000",Cafes,Marathahalli
+Meghana Foods,Yes,Yes,4.1/5,2752,Basavanagudi  ,Bar,"Mughlai, North Indian",250,Delivery,HSR Layout
+Dhaba Truffles,Yes,No,2.7/5,6295,Bellandur,Desserts,"Italian, Pizza",700,Desserts,Indiranagar
+Dragon Palace,Yes,,4.4/5,6936,Vijayanagar  ,Bakery,North Indian,500,Dine-out,Koramangala
+Rolls Mania,No,Yes,4.4/5,4969,MG Road,Quick Bites,South Indian,350,Lunch,Electronic City
+Empire Restaurant,No,No,3.8/5,2466,Electronic City,Fine Dining,"North Indian, Chinese",200,Drinks & nightlife,Jayanagar
+The Udupi Palace,Yes,Yes,3.2/5,5299,MG Road,Bakery,"Pizza, Fast Food",350,Desserts,Indiranagar
+Dhaba Box8,Yes,No,4.2/5,3702,Church Street,Bakery,"North Indian, Chinese",1500,Desserts,Electronic City
+Box8,No,Yes,2.8/5,4361,Frazer Town,"Pub, Bar","North Indian, Chinese","2,000",Dine-out,Jayanagar
+House Wrap It Up,No,No,-,7112,Basavanagudi,Beverage Shop,"Sandwich, Fast Food",250,Cafes,Whitefield
+Palace Dominos,Yes,No,2.6/5,825,Rajajinagar,Fine Dining,,600,Lunch,HSR Layout
+Donne Biryani,Yes,No,2.5/5,7541,Banashankari  ,Cafe,"Continental, North Indian",1200,Desserts,Koramangala
+Hotel Pai Vista,Yes,,NEW,2046,Frazer Town,"Pub, Bar",Chinese,1500,Delivery,Indiranagar
+Toit Brewpub,No,Yes,3.9/5,3273,Basavanagudi,Fine Dining,"Continental, North Indian",600,Lunch,JP Nagar
+McDonald's,No,Yes,3.9/5,4665,Jayanagar  ,Desserts,"Continental, North Indian",600,Lunch,Koramangala
+Punjabi Tadka,Yes,Yes,4.3/5,5383,BTM Layout,,Street Food,1000,Drinks & nightlife,Koramangala
+Cafe Brahmin Coffee Bar,Yes,No,,1601,MG Road,Desserts,Street Food,1500,Dine-out,Electronic City
+Dominos,No,Yes,-,1689,RT Nagar,Delivery,Fast Food,"1,200",Desserts,Whitefield
+Freshmenu,Yes,No,3.6/5,1441,BTM Layout,Desserts,"North Indian, Chinese",300,Delivery,Whitefield
+Freshmenu,No,Yes,3.8/5,5757,Hebbal,Fine Dining,,600,Buffet,Koramangala
+Chai Point,No,Yes,4.3/5,2396,Indiranagar  ,Food Court,,250,Buffet,Marathahalli
+Box8,Yes,Yes,2.7/5,7446,Indiranagar,Beverage Shop,"Cafe, Beverages",450,Desserts,HSR Layout
+Amul,Yes,No,3.5/5,6656,Sarjapur Road,Quick Bites,"Biryani, North Indian",900,Cafes,JP Nagar
+Shivaji Military Hotel,No,No,2.8/5,3681,Indiranagar,Bakery,"North Indian, Chinese",400,Drinks & nightlife,Whitefield
+MTR,No,Yes,4.9/5,5901,Bellandur  ,Bakery,"Continental, North Indian",250,Buffet,Electronic City
+Dragon Palace,No,No,4.2/5,5506,HSR Layout,"Pub, Bar","South Indian, North Indian",300,Desserts,HSR Layout
+Vidyarthi Bhavan,No,No,3.0/5,4752,Basavanagudi,Cafe,"Bakery, Cafe",350,Lunch,Jayanagar
+Vasudev Adiga,Yes,Yes,2.6/5,778,Richmond Town,"Casual Dining, Cafe","Continental, North Indian",500,Lunch,Banashankari
+House Natural Ice Cream,No,Yes,,703,Rajajinagar,"Casual Dining, Cafe","Cafe, Beverages",600,Cafes,BTM Layout
+Vasudev Adiga,No,No,4.6/5,7311,Richmond Town  ,Food Court,"Sandwich, Fast Food",,Drinks & nightlife,Marathahalli
+Satkar,No,No,3.8/5,3902,Banashankari,Quick Bites,"Biryani, North Indian",2000,Drinks & nightlife,Jayanagar
+McDonald's,No,No,3.1/5,2113,Whitefield,,"Cafe, Beverages",1500,Lunch,HSR Layout
+Faasos,Yes,No,NEW,66,Electronic City  ,Bar,Fast Food,200,Lunch,Banashankari
+Dhaba The Burger Lab,Yes,Yes,3.5/5,5907,Majestic,Bar,"North Indian, Chinese",,Delivery,Jayanagar
+Satkar,Yes,No,3.7/5,661,Rajajinagar,,"South Indian, North Indian",1000,Cafes,Koramangala
+Udupi Palace,No,No,3.5/5,1327,Bellandur  ,Desserts,South Indian,400,Drinks & nightlife,HSR Layout
+Vidyarthi Bhavan,Yes,Yes,NEW,2774,Whitefield  ,Mess,Fast Food,400,Dine-out,HSR Layout
+Meghana Foods,Yes,No,2.5/5,4130,Church Street,"Casual Dining, Cafe",Fast Food,400,Delivery,Marathahalli
+The Vasudev Adiga,No,Yes,2.9/5,1016,Jayanagar,Bar,South Indian,300,Desserts,Electronic City
+The Burger Lab,No,No,4.6/5,3351,Whitefield,"Casual Dining, Cafe",,250,Desserts,Electronic City
+Shivaji Military Hotel,No,Yes,4.4/5,634,Hebbal,Fine Dining,South Indian,1500,Cafes,Whitefield
+New Taj Mahal Cafe,No,,2.6/5,6598,Electronic City,Bar,"North Indian, Chinese",1200,Dine-out,JP Nagar
+Satkar,Yes,Yes,4.6/5,2639,HSR Layout  ,Casual Dining,Fast Food,400,Desserts,Marathahalli
+Wrap It Up,No,No,3.2/5,556,Basavanagudi,Desserts,Street Food,300,Cafes,Indiranagar
+Cafe Freshmenu,No,Yes,3.9/5,4437,Majestic  ,Sweet Shop,"Seafood, Continental",700,Cafes,Electronic City
+KFC,Yes,,4.8/5,5043,RT Nagar  ,Casual Dining,Biryani,450,Dine-out,Banashankari
+Vasudev Adiga,No,No,NEW,987,BTM Layout,"Casual Dining, Cafe","South Indian, Chinese",900,Delivery,BTM Layout
+Empire Restaurant,Yes,No,3.7/5,7941,Jayanagar,Delivery,,2500,Lunch,Jayanagar
+Corner House,No,No,3.8/5,3633,Richmond Town,"Pub, Bar","North Indian, Chinese",350,Buffet,Indiranagar
+Udupi Palace,No,Yes,3.8/5,6385,Sarjapur Road,Bar,"Italian, Pizza",,Cafes,BTM Layout
+Eat Street,No,Yes,-,2636,BTM Layout,Casual Dining,"Continental, North Indian",2000,Desserts,Whitefield
+Shivaji Military Hotel,Yes,No,4.2/5,3854,Hebbal,"Pub, Bar",Fast Food,1500,Desserts,Indiranagar
+Faasos,Yes,No,4.5/5,6881,Majestic,Beverage Shop,"South Indian, Chinese",700,Dine-out,Whitefield
+Biryani Zone,Yes,Yes,2.8/5,5243,Richmond Town,Cafe,"Mughlai, North Indian",2000,Delivery,HSR Layout
+Hotel Pai Vista,Yes,No,4.3/5,7867,Banashankari,Beverage Shop,"North Indian, Chinese",800,Lunch,Whitefield
+Cafe Wrap It Up,No,No,4.2/5,769,JP Nagar,Bar,"Ice Cream, Desserts",400,Buffet,Banashankari
+Kitchen Punjabi Tadka,Yes,No,4.0/5,6804,HSR Layout,Cafe,"South Indian, Chinese",1000,Lunch,Jayanagar
+Shivaji Military Hotel,Yes,,4.5/5,405,Richmond Town,Mess,"South Indian, Chinese",250,Drinks & nightlife,Koramangala
+India Gate,Yes,,2.8/5,4399,Indiranagar,Delivery,"Seafood, Continental",500,Lunch,Whitefield
+Restaurant KFC,Yes,No,4.8/5,2946,Frazer Town,Fine Dining,Street Food,200,Desserts,BTM Layout
+Spice Garden,Yes,Yes,4.2/5,10,HSR Layout  ,Sweet Shop,"Biryani, North Indian",2000,Delivery,Banashankari
+House Hotel Pai Vista,Yes,No,2.9/5,4683,Malleshwaram,Delivery,"Ice Cream, Desserts",150,Delivery,BTM Layout
+Hotel Pai Vista,No,Yes,2.6/5,7179,Majestic  ,"Pub, Bar",North Indian,300,Cafes,Jayanagar
+Amul,Yes,Yes,NEW,936,Indiranagar  ,Food Court,"Desserts, Bakery",1200,Desserts,Marathahalli
+Dominos,No,Yes,3.5/5,1462,Marathahalli,Bakery,"South Indian, Chinese",250,Delivery,BTM Layout
+Starbucks,No,No,4.5/5,3174,Yelahanka  ,Desserts,"Bakery, Cafe",350,Delivery,Electronic City
+Dhaba Box8,No,No,4.5/5,5947,Basavanagudi,Casual Dining,,300,Drinks & nightlife,HSR Layout
+Barbeque Nation,No,Yes,3.4/5,213,Basavanagudi,"Pub, Bar","Bakery, Cafe",1200,Dine-out,Whitefield
+Truffles,Yes,Yes,4.0/5,4445,Malleshwaram,"Casual Dining, Cafe","Italian, Pizza",350,Dine-out,Indiranagar
+Kamat Upachar,No,No,3.4/5,3865,Hebbal,Bakery,Fast Food,2000,Cafes,HSR Layout
+Vidyarthi Bhavan,No,,4.6/5,4225,Church Street,Mess,"Desserts, Bakery",1200,Cafes,JP Nagar
+Kitchen Tasty Bites,No,Yes,4.6/5,2831,Jayanagar,,Chinese,2500,Delivery,Jayanagar
+Biryani Donne Biryani,No,Yes,3.1/5,7935,Yelahanka  ,"Pub, Bar",Street Food,250,Delivery,HSR Layout
+Rolls Mania,No,,3.5/5,4197,BTM Layout,Fine Dining,"Continental, North Indian",250,Drinks & nightlife,Jayanagar
+Vidyarthi Bhavan,Yes,No,4.6/5,7428,Majestic  ,Beverage Shop,"North Indian, Chinese",700,Dine-out,Electronic City
+House Faasos,Yes,No,4.0/5,9,JP Nagar  ,Bar,"Continental, North Indian",900,Delivery,Banashankari
+Donne Biryani,No,Yes,4.0/5,5568,Koramangala,Bakery,"Biryani, North Indian",,Delivery,BTM Layout
+Biryani Truffles,No,No,4.4/5,7491,Koramangala,Mess,Fast Food,2000,Delivery,BTM Layout
+Hotel MTR,No,No,4.2/5,4473,HSR Layout,Fine Dining,Biryani,1000,Drinks & nightlife,Koramangala
+The Burger Lab,No,No,2.8/5,3239,Vijayanagar,Bar,South Indian,900,Cafes,Jayanagar
+Kitchen Cafe Coffee Day,No,No,NEW,520,RT Nagar,"Casual Dining, Cafe","Continental, North Indian",800,Lunch,Banashankari
+Brahmin Coffee Bar,Yes,No,3.4/5,4616,Koramangala,Beverage Shop,"Italian, Pizza",2000,Dine-out,BTM Layout
+Faasos,No,,4.6/5,7486,Whitefield,Mess,Chinese,2500,Cafes,Jayanagar
+Biryani Shivaji Military Hotel,No,Yes,NEW,1475,MG Road  ,Cafe,"Pizza, Fast Food",700,Delivery,HSR Layout
+Freshmenu,No,No,3.4/5,1050,Jayanagar,Quick Bites,"Bakery, Cafe",,Desserts,JP Nagar
+India Gate,No,No,3.9/5,3719,Whitefield,Beverage Shop,Biryani,350,Lunch,Jayanagar
+Dominos,No,No,4.0/5,4543,Frazer Town,Cafe,"Italian, Pizza",200,Dine-out,JP Nagar
+New Taj Mahal Cafe,Yes,No,4.0/5,3192,Yelahanka,,North Indian,"1,200",Drinks & nightlife,JP Nagar
+New Taj Mahal Cafe,Yes,,,5387,Jayanagar  ,Sweet Shop,"North Indian, Chinese","2,000",Buffet,HSR Layout
+Shivaji Military Hotel,Yes,Yes,4.2/5,791,HSR Layout,Delivery,Biryani,900,Buffet,Marathahalli
+Corner House,Yes,No,2.6/5,2265,Yelahanka,,"South Indian, Chinese",2500,Buffet,BTM Layout
+Subway,No,,4.7/5,7102,Marathahalli,Sweet Shop,"North Indian, Chinese",400,Delivery,Whitefield
+MTR,Yes,No,3.2/5,4065,Domlur,Cafe,"Biryani, North Indian",1500,Desserts,HSR Layout
+Udupi Palace,No,Yes,3.3/5,7232,Domlur,"Casual Dining, Cafe","North Indian, Chinese",350,Buffet,Indiranagar
+Cafe Pizza Hut,Yes,No,2.7/5,6549,RT Nagar,"Pub, Bar","North Indian, Chinese","1,500",Dine-out,Indiranagar
+Brahmin Coffee Bar,No,No,3.1/5,906,Bellandur,Mess,"Sandwich, Fast Food",450,Lunch,HSR Layout
+Chai Point,Yes,Yes,4.5/5,2376,Rajajinagar,Delivery,Chinese,450,Dine-out,BTM Layout
+New Taj Mahal Cafe,Yes,Yes,3.8/5,294,Electronic City  ,Fine Dining,"Ice Cream, Desserts",2000,Delivery,JP Nagar
+Dominos,Yes,No,3.2/5,2632,Indiranagar,Desserts,,2500,Dine-out,Banashankari
+Biryani Zone,No,No,2.8/5,5805,Jayanagar,"Casual Dining, Cafe",North Indian,400,Buffet,Whitefield
+Shivaji Military Hotel,No,No,4.0/5,3999,Sarjapur Road,Quick Bites,"South Indian, North Indian",150,Desserts,Koramangala
+Dhaba Hotel Pai Vista,Yes,No,4.8/5,7312,Hebbal,"Pub, Bar","Cafe, Beverages",900,Cafes,HSR Layout
+The Haveli,No,No,3.3/5,575,Whitefield  ,Bakery,Fast Food,1000,Cafes,Electronic City
+House Kanti Sweets,Yes,No,,13,Malleshwaram,Fine Dining,"Sandwich, Fast Food",800,Dine-out,HSR Layout
+Tasty Bites,No,,4.1/5,1523,RT Nagar,"Pub, Bar","South Indian, Chinese",250,Drinks & nightlife,Koramangala
+Rolls Mania,Yes,Yes,3.3/5,5289,Jayanagar,Mess,"Ice Cream, Desserts",500,Delivery,Koramangala
+Cafe Kamat Upachar,Yes,Yes,4.0/5,1418,Majestic,Food Court,"Seafood, Continental",900,Cafes,BTM Layout
+Shivaji Military Hotel,Yes,No,3.8/5,593,Yelahanka  ,Mess,,400,Drinks & nightlife,Marathahalli
+New Taj Mahal Cafe,No,No,3.9/5,591,JP Nagar,Mess,"Cafe, Beverages","1,000",Dine-out,Jayanagar
+Dominos,No,,3.6/5,7285,JP Nagar,Sweet Shop,"North Indian, Chinese",500,Buffet,Marathahalli
+Satkar,Yes,Yes,4.7/5,7978,Vijayanagar,Fine Dining,"Biryani, North Indian",600,Desserts,Banashankari
+Biryani KFC,Yes,Yes,2.7/5,3610,Hebbal,Desserts,"Pizza, Fast Food",900,Buffet,Marathahalli
+The Burger Lab,No,No,4.0/5,5183,RT Nagar,Mess,"South Indian, North Indian",1000,Buffet,Koramangala
+Cafe Box8,No,No,3.2/5,983,Marathahalli,Bar,"Mughlai, North Indian",300,Desserts,Whitefield
+Udupi Palace,Yes,Yes,4.7/5,6292,JP Nagar,Fine Dining,"North Indian, Chinese",,Desserts,JP Nagar
+Dominos,Yes,No,2.6/5,3883,Hebbal,Cafe,"South Indian, Chinese",250,Lunch,Banashankari
+McDonald's,No,Yes,2.9/5,6944,Basavanagudi,Cafe,"Continental, North Indian",200,Drinks & nightlife,Jayanagar
+Punjabi Tadka,Yes,No,3.4/5,7022,JP Nagar,Delivery,"Pizza, Fast Food",900,Dine-out,Indiranagar
+Cafe Barbeque Nation,Yes,Yes,4.5/5,2556,Banashankari,Bakery,Chinese,,Lunch,HSR Layout
+Box8,Yes,Yes,3.4/5,4135,Marathahalli,Beverage Shop,North Indian,800,Lunch,Marathahalli
+Chinese Hut,Yes,Yes,4.0/5,4826,Rajajinagar,Food Court,Biryani,2500,Lunch,Koramangala
+Dominos,Yes,,-,5979,Whitefield,Quick Bites,"Sandwich, Fast Food",600,Lunch,JP Nagar
+Biryani Brahmin Coffee Bar,Yes,Yes,4.0/5,1547,Frazer Town,Delivery,"Desserts, Bakery",700,Dine-out,Koramangala
+The Burger Lab,No,,3.4/5,4770,Marathahalli,Bakery,,500,Cafes,Jayanagar
+Haveli,Yes,Yes,3.2/5,5424,Bellandur,Bar,"Cafe, Beverages",1200,Lunch,Whitefield
+House Freshmenu,No,No,4.3/5,3083,Banashankari  ,Mess,,600,Lunch,Jayanagar
+The Burger Lab,Yes,Yes,3.0/5,2162,MG Road  ,Cafe,"Continental, North Indian",900,Delivery,Electronic City
+Rolls Mania,No,No,2.7/5,2745,Majestic,Bakery,North Indian,"2,500",Delivery,Banashankari
+MTR,No,Yes,3.1/5,7644,Rajajinagar,Cafe,"Pizza, Fast Food",1200,Drinks & nightlife,Indiranagar
+Corner House,No,Yes,3.9/5,4954,JP Nagar,"Pub, Bar","North Indian, Chinese",2000,Cafes,JP Nagar
+Dhaba Amul,Yes,No,3.4/5,2108,Banashankari,Sweet Shop,Biryani,300,Cafes,Koramangala
+Dominos,No,No,4.8/5,5205,Frazer Town,Casual Dining,"North Indian, Chinese",150,Delivery,Whitefield
+The Beijing Bites,Yes,,4.8/5,4337,Majestic,Desserts,"Continental, North Indian",500,Cafes,Jayanagar
+KFC,No,No,4.7/5,6368,Koramangala,Delivery,Street Food,"2,000",Delivery,Jayanagar
+Toit Brewpub,Yes,Yes,,35,MG Road,Food Court,South Indian,350,Desserts,Electronic City
+Shivaji Military Hotel,No,No,3.6/5,6284,Electronic City,Desserts,North Indian,600,Lunch,Jayanagar
+Kamat Upachar,Yes,Yes,3.1/5,6506,Electronic City,Bar,"Ice Cream, Desserts",600,Desserts,BTM Layout
+MTR,No,Yes,4.7/5,7388,Rajajinagar,,"Italian, Pizza","2,000",Desserts,BTM Layout
+House Punjab Grill,No,No,4.7/5,1324,Majestic,Delivery,"Italian, Pizza",,Delivery,Marathahalli
+Palace Cafe Coffee Day,No,Yes,2.8/5,6980,Whitefield,,"Bakery, Cafe",1000,Lunch,Whitefield
+MTR,No,Yes,4.8/5,4795,JP Nagar,Cafe,"Italian, Pizza",500,Desserts,Indiranagar
+Box8,No,Yes,3.8/5,140,Church Street,Sweet Shop,"South Indian, North Indian",900,Dine-out,Indiranagar
+Rolls Mania,No,Yes,4.3/5,20,Electronic City,Food Court,"Biryani, North Indian",150,Drinks & nightlife,Whitefield
+Cafe Srinidhi,No,Yes,2.9/5,4889,Vijayanagar,"Casual Dining, Cafe","Seafood, Continental",300,Buffet,Banashankari
+Dhaba Vasudev Adiga,Yes,No,4.6/5,1389,MG Road,Bar,"Cafe, Beverages",,Cafes,JP Nagar
+Empire Restaurant,Yes,No,4.0/5,2979,RT Nagar,Beverage Shop,Street Food,1200,Desserts,Whitefield
+Starbucks,Yes,Yes,2.8/5,2169,Hebbal,Mess,"South Indian, Chinese",,Drinks & nightlife,HSR Layout
+Starbucks,Yes,Yes,3.3/5,4494,Vijayanagar,Quick Bites,"South Indian, North Indian",350,Drinks & nightlife,Electronic City
+Kitchen McDonald's,Yes,Yes,3.6/5,4703,Banashankari  ,Desserts,"Continental, North Indian",450,Lunch,Electronic City
+Hotel Pai Vista,Yes,No,3.3/5,5895,Banashankari,Desserts,"Bakery, Cafe",2500,Desserts,Electronic City
+Dragon Palace,No,Yes,3.4/5,6638,Vijayanagar  ,,"Biryani, North Indian",200,Drinks & nightlife,HSR Layout
+Udupi Palace,No,No,3.9/5,5451,Sarjapur Road,Fine Dining,"Biryani, North Indian",200,Buffet,Electronic City
+Satkar,No,No,2.9/5,5921,JP Nagar,Fine Dining,"Desserts, Bakery",1500,Buffet,HSR Layout
+MTR,No,No,3.5/5,6542,Vijayanagar,Delivery,"South Indian, Chinese",300,Lunch,JP Nagar
+Starbucks,No,Yes,4.4/5,1290,Marathahalli,"Pub, Bar",South Indian,600,Desserts,Whitefield
+Palace Vidyarthi Bhavan,No,Yes,,963,Whitefield,Bakery,"Biryani, North Indian",1200,Cafes,Whitefield
+House Cafe Coffee Day,Yes,No,3.9/5,4400,Vijayanagar,Bar,"Continental, North Indian",350,Lunch,Electronic City
+Hotel Pai Vista,Yes,Yes,4.8/5,6540,JP Nagar,Fine Dining,Biryani,600,Drinks & nightlife,Jayanagar
+Hotel Freshmenu,Yes,No,2.5/5,7443,Majestic,"Pub, Bar","Ice Cream, Desserts",900,Drinks & nightlife,BTM Layout
+Palace The Burger Lab,No,Yes,3.6/5,6471,Banashankari,Cafe,"South Indian, North Indian",2000,Desserts,Banashankari
+Corner House,No,Yes,4.5/5,5346,Yelahanka  ,Sweet Shop,"North Indian, Chinese",900,Lunch,Electronic City
+Dominos,No,No,3.5/5,6496,Frazer Town,Bar,"North Indian, Chinese",600,Lunch,HSR Layout
+MTR,No,Yes,3.5/5,1993,Rajajinagar,Desserts,Chinese,300,Cafes,JP Nagar
+Freshmenu,Yes,No,4.6/5,158,Frazer Town,"Pub, Bar","South Indian, Chinese",150,Drinks & nightlife,BTM Layout
+Kitchen Kanti Sweets,Yes,,3.7/5,3225,BTM Layout,,"Cafe, Beverages",,Cafes,Whitefield
+Kitchen Faasos,Yes,,4.0/5,5252,Indiranagar,"Casual Dining, Cafe",Chinese,,Desserts,HSR Layout
+Subway,Yes,No,4.4/5,2830,Hebbal,"Casual Dining, Cafe",Chinese,700,Desserts,Banashankari
+Vidyarthi Bhavan,Yes,Yes,4.3/5,3986,Domlur,Desserts,South Indian,150,Desserts,Whitefield
+India Gate,Yes,No,2.6/5,6570,Jayanagar,Delivery,Chinese,350,Drinks & nightlife,Koramangala
+House Vasudev Adiga,No,No,2.8/5,3568,Rajajinagar,Casual Dining,North Indian,150,Desserts,Electronic City
+Restaurant Wrap It Up,Yes,No,3.8/5,2938,Malleshwaram,"Casual Dining, Cafe",Chinese,450,Dine-out,HSR Layout
+Brahmin Coffee Bar,No,No,4.2/5,6099,Sarjapur Road  ,Cafe,"Seafood, Continental",200,Drinks & nightlife,Banashankari
+Empire Restaurant,Yes,Yes,3.5/5,7810,Basavanagudi  ,Mess,"Ice Cream, Desserts",350,Dine-out,Banashankari
+Hotel Barbeque Nation,Yes,No,3.2/5,5631,Richmond Town,Fine Dining,South Indian,2000,Delivery,JP Nagar
+Srinidhi,No,No,4.1/5,1546,Bellandur,Desserts,"South Indian, North Indian",700,Lunch,Electronic City
+Chinese Hut,Yes,Yes,3.2/5,6089,Marathahalli,Delivery,"Ice Cream, Desserts",500,Delivery,Jayanagar
+Starbucks,No,No,4.5/5,4476,Koramangala,Cafe,"Biryani, North Indian",300,Delivery,Banashankari
+Biryani Satkar,No,Yes,4.2/5,5355,Bellandur,Bar,,,Desserts,BTM Layout
+Vasudev Adiga,Yes,Yes,3.1/5,2601,MG Road,Bakery,"Seafood, Continental",1500,Lunch,Indiranagar
+Belgian Waffle,Yes,Yes,4.3/5,2938,Jayanagar,Bar,"South Indian, Chinese",900,Cafes,Koramangala
+Palace Beijing Bites,No,Yes,3.4/5,7424,JP Nagar,Bar,"Italian, Pizza",250,Drinks & nightlife,JP Nagar
+Corner House,No,No,2.5/5,273,Domlur,Bakery,"North Indian, Chinese",800,Buffet,Electronic City
+Corner House,Yes,,4.7/5,3097,Indiranagar,Mess,"Bakery, Cafe",450,Drinks & nightlife,Marathahalli
+Dragon Palace,Yes,No,3.3/5,1316,RT Nagar,Sweet Shop,South Indian,200,Lunch,Electronic City
+Meghana Foods,Yes,Yes,3.0/5,7320,Frazer Town,"Casual Dining, Cafe",Fast Food,,Buffet,Whitefield
+Corner Pizza Hut,No,,4.3/5,7473,Vijayanagar  ,Fine Dining,,400,Buffet,Whitefield
+Kanti Sweets,Yes,No,2.7/5,5582,Vijayanagar,Food Court,"Continental, North Indian",500,Cafes,Whitefield
+Corner House,Yes,Yes,3.6/5,4702,Frazer Town,Bakery,South Indian,600,Lunch,Whitefield
+Barbeque Nation,Yes,Yes,4.9/5,1574,Frazer Town,Food Court,"Biryani, North Indian",300,Delivery,Electronic City
+The Burger Lab,No,No,4.7/5,7314,Church Street,,"Pizza, Fast Food",600,Dine-out,Electronic City
+Hotel Beijing Bites,Yes,,3.3/5,7725,Whitefield,Mess,Chinese,2000,Cafes,Indiranagar
+Kitchen Amul,No,No,4.7/5,4255,HSR Layout,Casual Dining,"Continental, North Indian",700,Dine-out,Indiranagar
+Kamat Upachar,Yes,No,2.5/5,7175,Marathahalli,Beverage Shop,Fast Food,250,Lunch,Whitefield
+New Taj Mahal Cafe,No,No,4.6/5,482,Hebbal,Fine Dining,"Desserts, Bakery",450,Delivery,Whitefield
+The India Gate,No,No,2.6/5,4585,RT Nagar,Sweet Shop,Chinese,2000,Buffet,Whitefield
+Corner The Burger Lab,Yes,Yes,4.8/5,116,Majestic,Delivery,"Desserts, Bakery",400,Lunch,Indiranagar
+Palace Haveli,Yes,Yes,3.8/5,7621,Whitefield,"Pub, Bar","North Indian, Chinese",2000,Delivery,Indiranagar
+Shivaji Military Hotel,No,No,NEW,427,Koramangala,Cafe,"Sandwich, Fast Food",2500,Cafes,HSR Layout
+Spice Garden,Yes,Yes,4.2/5,5626,Yelahanka,Quick Bites,Chinese,200,Drinks & nightlife,HSR Layout
+The Dominos,No,Yes,4.1/5,7214,Frazer Town,"Pub, Bar","Cafe, Beverages",800,Buffet,Electronic City
+House Punjabi Tadka,Yes,No,NEW,363,JP Nagar,Fine Dining,"South Indian, Chinese",2500,Desserts,JP Nagar
+Meghana Foods,Yes,Yes,3.8/5,692,RT Nagar  ,Beverage Shop,"Pizza, Fast Food",250,Dine-out,Banashankari
+Biryani Starbucks,No,No,3.8/5,269,Koramangala,Fine Dining,"Ice Cream, Desserts",800,Delivery,BTM Layout
+Faasos,No,Yes,4.3/5,6082,Koramangala,Delivery,"Biryani, North Indian",900,Cafes,BTM Layout
+The Burger Lab,Yes,Yes,NEW,7816,Banashankari,"Pub, Bar",South Indian,250,Desserts,BTM Layout
+Freshmenu,Yes,Yes,3.6/5,6570,Basavanagudi,Beverage Shop,"Bakery, Cafe",450,Lunch,Koramangala
+Restaurant Natural Ice Cream,No,,3.0/5,7274,Domlur,"Pub, Bar","Desserts, Bakery",800,Delivery,Jayanagar
+Hotel Pai Vista,No,Yes,3.1/5,891,Indiranagar,,"Sandwich, Fast Food",1200,Delivery,BTM Layout
+Donne Biryani,Yes,No,2.9/5,4016,Bellandur  ,Desserts,"North Indian, Chinese",2000,Cafes,Whitefield
+Chai Point,No,No,2.5/5,649,Domlur,Sweet Shop,"Italian, Pizza",,Dine-out,Indiranagar
+House Punjabi Tadka,No,Yes,4.2/5,7822,JP Nagar  ,Food Court,Biryani,2000,Desserts,BTM Layout
+New Taj Mahal Cafe,No,Yes,4.7/5,1681,Electronic City  ,Bar,South Indian,2000,Lunch,HSR Layout
+Corner Beijing Bites,No,Yes,4.0/5,3356,Indiranagar,,"South Indian, Chinese",2500,Desserts,Banashankari
+Kanti Sweets,No,No,3.2/5,7561,Majestic,Bar,"South Indian, Chinese",150,Dine-out,Banashankari
+Cafe Barbeque Nation,No,Yes,3.9/5,21,MG Road,"Casual Dining, Cafe","South Indian, North Indian",1000,Drinks & nightlife,Electronic City
+Srinidhi,No,No,4.0/5,3762,Majestic,Fine Dining,Biryani,900,Buffet,Whitefield
+Vidyarthi Bhavan,No,,3.6/5,6573,Sarjapur Road,"Casual Dining, Cafe",Fast Food,250,Dine-out,BTM Layout
+Biryani Punjabi Tadka,Yes,Yes,4.2/5,4265,Sarjapur Road,Cafe,Fast Food,150,Buffet,Indiranagar
+MTR,No,No,4.4/5,6980,Rajajinagar  ,Bakery,"Ice Cream, Desserts",200,Buffet,Indiranagar
+Biryani Hotel Pai Vista,Yes,Yes,,7848,Rajajinagar,Cafe,"Ice Cream, Desserts",700,Lunch,Indiranagar
+Cafe Coffee Day,Yes,No,4.5/5,6714,Electronic City,Casual Dining,"Seafood, Continental",450,Drinks & nightlife,Electronic City
+Kanti Sweets,No,Yes,4.0/5,4688,Bellandur,,South Indian,350,Dine-out,Koramangala
+Dragon Palace,No,No,2.8/5,6557,Church Street,Sweet Shop,"Mughlai, North Indian",150,Delivery,Banashankari
+Satkar,No,No,3.9/5,1004,Malleshwaram,Fine Dining,"Sandwich, Fast Food",400,Drinks & nightlife,Banashankari
+Dominos,No,No,2.9/5,3117,Frazer Town  ,Quick Bites,"Ice Cream, Desserts",1500,Buffet,Koramangala
+Haveli,Yes,No,-,529,Banashankari,Desserts,"Bakery, Cafe",800,Dine-out,BTM Layout
+Cafe Donne Biryani,No,No,4.3/5,7360,RT Nagar  ,Cafe,"South Indian, Chinese",200,Dine-out,Whitefield
+Haveli,Yes,No,4.5/5,3188,Hebbal,Beverage Shop,"Mughlai, North Indian",1500,Buffet,Whitefield
+Brahmin Coffee Bar,Yes,,3.4/5,4644,Vijayanagar,Beverage Shop,"Italian, Pizza",700,Dine-out,Koramangala
+Cafe Box8,No,Yes,2.9/5,5752,Marathahalli,,"Italian, Pizza",350,Drinks & nightlife,Banashankari
+Dhaba KFC,Yes,No,2.7/5,5592,Bellandur,"Pub, Bar",Biryani,400,Dine-out,Whitefield
+The The Burger Lab,No,Yes,3.8/5,1285,Hebbal,Beverage Shop,Biryani,400,Cafes,JP Nagar
+Pizza Hut,Yes,No,4.6/5,6812,Bellandur,Sweet Shop,"Italian, Pizza",250,Dine-out,Indiranagar
+Vasudev Adiga,Yes,Yes,3.1/5,3224,Church Street,Fine Dining,Chinese,"2,500",Lunch,Indiranagar
+Udupi Palace,Yes,Yes,3.3/5,1394,Whitefield,,"Mughlai, North Indian",800,Lunch,Indiranagar
+Vasudev Adiga,No,No,4.1/5,3374,Domlur,Casual Dining,"South Indian, North Indian",400,Buffet,BTM Layout
+McDonald's,Yes,Yes,4.0/5,6183,Richmond Town,Cafe,Street Food,2000,Drinks & nightlife,Koramangala
+Kamat Upachar,No,Yes,4.7/5,3526,Hebbal,Beverage Shop,Biryani,800,Cafes,Jayanagar
+KFC,Yes,Yes,-,2353,Sarjapur Road,Cafe,North Indian,2500,Desserts,JP Nagar
+Kanti Sweets,Yes,Yes,3.4/5,7206,Koramangala,Beverage Shop,Chinese,,Lunch,Jayanagar
+Kitchen Chinese Hut,Yes,Yes,3.2/5,3201,Majestic,Fine Dining,Biryani,2500,Drinks & nightlife,Whitefield
+KFC,Yes,No,3.7/5,6276,Domlur,Cafe,"Continental, North Indian",900,Drinks & nightlife,Jayanagar
+House Amul,No,Yes,3.7/5,7408,RT Nagar,Cafe,"Mughlai, North Indian",2500,Dine-out,JP Nagar
+Brahmin Coffee Bar,No,No,3.5/5,4599,Koramangala,"Casual Dining, Cafe","Italian, Pizza",700,Drinks & nightlife,Whitefield
+Vidyarthi Bhavan,Yes,No,4.1/5,6652,Indiranagar,"Pub, Bar",,900,Lunch,HSR Layout
+House Vidyarthi Bhavan,Yes,No,3.8/5,4549,Rajajinagar  ,Bakery,"Pizza, Fast Food",1000,Drinks & nightlife,Electronic City
+Corner House,No,Yes,4.3/5,3928,Majestic,Casual Dining,North Indian,250,Dine-out,HSR Layout
+Palace Udupi Palace,No,Yes,4.8/5,3267,RT Nagar,Bakery,Street Food,900,Lunch,Electronic City
+Biryani Zone,No,Yes,4.9/5,850,Electronic City,"Pub, Bar","South Indian, Chinese",,Delivery,Electronic City
+Chai Point,No,Yes,3.7/5,1518,Bellandur,Fine Dining,"South Indian, Chinese",200,Cafes,Whitefield
+Eat Street,Yes,No,-,6434,Yelahanka,Beverage Shop,"Ice Cream, Desserts",700,Desserts,HSR Layout
+Cafe Pizza Hut,Yes,Yes,3.9/5,4589,Electronic City,"Pub, Bar",South Indian,800,Desserts,Whitefield
+Chinese Hut,No,No,4.4/5,2637,Basavanagudi,Sweet Shop,Chinese,900,Cafes,JP Nagar
+McDonald's,Yes,Yes,3.1/5,2411,Majestic,Bar,"South Indian, Chinese",900,Desserts,Banashankari
+New Taj Mahal Cafe,No,Yes,NEW,6787,HSR Layout,Casual Dining,"Cafe, Beverages",900,Buffet,Whitefield
+Vasudev Adiga,Yes,No,4.1/5,7437,Electronic City,Quick Bites,South Indian,2500,Lunch,Whitefield
+Corner Amul,Yes,No,3.1/5,5789,Koramangala  ,Mess,"Sandwich, Fast Food",900,Buffet,Indiranagar
+House Chai Point,Yes,Yes,3.7/5,1855,HSR Layout,Quick Bites,North Indian,1200,Buffet,Whitefield
+Hotel Hotel Pai Vista,Yes,No,4.6/5,406,Domlur,Quick Bites,"Continental, North Indian",350,Desserts,JP Nagar
+McDonald's,Yes,No,3.8/5,3778,Rajajinagar,Casual Dining,"Cafe, Beverages",900,Buffet,Electronic City
+Restaurant Vidyarthi Bhavan,Yes,Yes,4.4/5,1996,Basavanagudi,"Pub, Bar","Mughlai, North Indian",450,Buffet,Indiranagar
+Brahmin Coffee Bar,No,Yes,3.0/5,2848,HSR Layout  ,Bakery,"Ice Cream, Desserts",300,Delivery,HSR Layout
+Beijing Bites,No,No,3.2/5,3173,Indiranagar,Mess,"North Indian, Chinese",250,Desserts,Jayanagar
+Cafe KFC,No,Yes,3.4/5,2989,JP Nagar  ,Desserts,"South Indian, North Indian",450,Dine-out,Whitefield
+MTR,Yes,Yes,3.3/5,1364,Banashankari,Sweet Shop,"Cafe, Beverages",150,Delivery,Indiranagar
+Satkar,Yes,Yes,3.9/5,6924,Whitefield  ,Mess,"Cafe, Beverages",900,Drinks & nightlife,BTM Layout
+Natural Ice Cream,Yes,Yes,2.6/5,125,Frazer Town,Casual Dining,Street Food,300,Desserts,Electronic City
+Dragon Palace,Yes,Yes,4.9/5,5773,Bellandur,"Pub, Bar","Continental, North Indian",800,Buffet,JP Nagar
+Vasudev Adiga,Yes,Yes,2.6/5,3138,Richmond Town  ,Delivery,"Seafood, Continental",150,Lunch,Jayanagar
+The The Burger Lab,No,Yes,4.8/5,6007,HSR Layout,Quick Bites,"Continental, North Indian",800,Lunch,Indiranagar
+Satkar,Yes,Yes,3.7/5,1704,Bellandur  ,Quick Bites,North Indian,1000,Delivery,Jayanagar
+McDonald's,No,,4.1/5,792,Church Street,Food Court,,500,Buffet,Jayanagar
+Koshy's,Yes,No,4.5/5,1823,Hebbal,Desserts,"Mughlai, North Indian",350,Desserts,HSR Layout
+Restaurant Pizza Hut,Yes,No,3.8/5,4760,Marathahalli,Desserts,"Bakery, Cafe",350,Desserts,HSR Layout
+Kanti Sweets,Yes,No,NEW,7784,Vijayanagar,Sweet Shop,"Mughlai, North Indian",300,Desserts,JP Nagar
+Donne Biryani,Yes,Yes,-,4390,Richmond Town,Cafe,South Indian,700,Lunch,Whitefield
+Brahmin Coffee Bar,No,Yes,-,1265,RT Nagar,Casual Dining,,200,Buffet,BTM Layout
+Chinese Hut,Yes,Yes,3.9/5,3416,Indiranagar,Sweet Shop,"North Indian, Chinese",,Buffet,Koramangala
+Satkar,Yes,Yes,3.7/5,7121,JP Nagar,Cafe,,350,Desserts,Indiranagar
+Shivaji Military Hotel,Yes,No,4.1/5,1247,Indiranagar,Quick Bites,Biryani,1000,Desserts,HSR Layout
+House Faasos,Yes,,4.3/5,3619,Bellandur,"Pub, Bar","Continental, North Indian",800,Lunch,BTM Layout
+Restaurant Kamat Upachar,No,Yes,4.0/5,4419,Frazer Town  ,Delivery,"Seafood, Continental",2500,Lunch,Whitefield
+Punjabi Tadka,Yes,Yes,3.0/5,1008,Banashankari,Cafe,"South Indian, North Indian",900,Buffet,BTM Layout
+Udupi Palace,No,Yes,3.3/5,3957,BTM Layout,,Biryani,500,Drinks & nightlife,BTM Layout
+Cafe New Taj Mahal Cafe,No,No,3.8/5,955,Koramangala,Beverage Shop,,900,Desserts,HSR Layout
+Corner Punjabi Tadka,No,Yes,4.2/5,1035,Hebbal,Bar,"Bakery, Cafe",500,Cafes,Jayanagar
+Brahmin Coffee Bar,Yes,Yes,2.8/5,6770,Marathahalli  ,Delivery,"South Indian, North Indian",900,Lunch,Marathahalli
+Toit Brewpub,Yes,No,-,3338,HSR Layout,Sweet Shop,"South Indian, North Indian",,Delivery,BTM Layout
+Truffles,No,Yes,3.1/5,3104,Hebbal,Bar,"Bakery, Cafe",500,Dine-out,Jayanagar
+The Punjab Grill,Yes,No,4.5/5,3965,Rajajinagar  ,Cafe,Fast Food,500,Delivery,Banashankari
+Belgian Waffle,Yes,No,3.9/5,4281,MG Road,Fine Dining,"Cafe, Beverages",150,Dine-out,Jayanagar
+Punjabi Tadka,No,No,4.1/5,2448,Frazer Town,Delivery,"Cafe, Beverages",400,Delivery,Koramangala
+Vidyarthi Bhavan,Yes,No,3.3/5,1442,Hebbal,Mess,"North Indian, Chinese","2,500",Lunch,HSR Layout
+Udupi Palace,No,Yes,2.9/5,1584,BTM Layout,"Casual Dining, Cafe","South Indian, Chinese",2500,Dine-out,Indiranagar
+Dragon Palace,Yes,Yes,4.0/5,5084,Majestic,Bakery,"South Indian, Chinese",200,Dine-out,Koramangala
+Hotel Pai Vista,Yes,No,,3963,Malleshwaram  ,"Casual Dining, Cafe","South Indian, North Indian",700,Delivery,Koramangala
+Corner Cafe Coffee Day,No,,-,918,Bellandur,"Pub, Bar","Italian, Pizza",1000,Lunch,Electronic City
+Biryani KFC,No,Yes,4.1/5,632,BTM Layout,"Casual Dining, Cafe",Fast Food,2500,Delivery,BTM Layout
+Kanti Sweets,No,Yes,,1640,Malleshwaram,Desserts,"Seafood, Continental",600,Lunch,Whitefield
+Punjab Grill,Yes,Yes,4.0/5,7843,HSR Layout,"Casual Dining, Cafe",,300,Cafes,Koramangala
+Corner Chinese Hut,Yes,Yes,4.4/5,36,Jayanagar  ,Cafe,"Ice Cream, Desserts",,Dine-out,Jayanagar
+House Natural Ice Cream,No,No,4.9/5,5943,JP Nagar,Fine Dining,Fast Food,900,Cafes,Koramangala
+Vasudev Adiga,Yes,No,3.8/5,1585,JP Nagar,"Casual Dining, Cafe",,700,Lunch,Electronic City
+Kitchen Koshy's,Yes,No,4.8/5,3364,Jayanagar,Cafe,Fast Food,800,Buffet,HSR Layout
+Udupi Palace,No,Yes,2.9/5,6707,Malleshwaram,Bakery,"Biryani, North Indian",1500,Delivery,HSR Layout
+Kamat Upachar,No,,3.5/5,7537,Electronic City,Bakery,South Indian,600,Drinks & nightlife,JP Nagar
+Belgian Waffle,No,No,3.3/5,954,Hebbal,"Casual Dining, Cafe",,"2,000",Desserts,Koramangala
+McDonald's,Yes,No,2.8/5,1560,Jayanagar  ,"Pub, Bar","Italian, Pizza",300,Delivery,BTM Layout
+Subway,No,,3.6/5,6813,Koramangala,Mess,Chinese,400,Drinks & nightlife,Koramangala
+Box8,No,Yes,4.6/5,2359,Malleshwaram,Cafe,"Sandwich, Fast Food",500,Delivery,BTM Layout
+Cafe Freshmenu,No,Yes,3.4/5,2430,Indiranagar,Sweet Shop,"Biryani, North Indian",250,Lunch,HSR Layout
+Corner House,No,No,4.1/5,5477,MG Road,Sweet Shop,Biryani,"2,000",Delivery,Jayanagar
+Spice Garden,No,,4.3/5,913,Koramangala,Delivery,"Continental, North Indian",600,Cafes,BTM Layout
+Punjabi Tadka,Yes,No,,5126,Marathahalli,Casual Dining,"Bakery, Cafe",2000,Cafes,Whitefield
+The Burger Lab,No,Yes,3.4/5,4675,Church Street,Desserts,"Biryani, North Indian",700,Drinks & nightlife,Jayanagar
+New Taj Mahal Cafe,No,No,3.5/5,2631,BTM Layout,Bar,Street Food,300,Cafes,Koramangala
+KFC,No,Yes,4.1/5,2425,BTM Layout,Sweet Shop,"Sandwich, Fast Food",800,Dine-out,Indiranagar
+Brahmin Coffee Bar,Yes,,2.9/5,806,Hebbal,Casual Dining,"Continental, North Indian",400,Buffet,Banashankari
+Wrap It Up,No,Yes,4.2/5,2785,Frazer Town,Sweet Shop,"Italian, Pizza",300,Cafes,JP Nagar
+Barbeque Nation,Yes,No,2.9/5,6830,Vijayanagar,Mess,North Indian,300,Lunch,Electronic City
+Chai Point,Yes,Yes,3.2/5,5690,Bellandur,"Pub, Bar",,800,Lunch,Jayanagar
+Vidyarthi Bhavan,Yes,Yes,2.9/5,1591,Vijayanagar,,"Italian, Pizza",200,Delivery,BTM Layout
+Freshmenu,No,No,3.6/5,281,Vijayanagar,Casual Dining,"Pizza, Fast Food","2,500",Buffet,JP Nagar
+Cafe Truffles,Yes,No,2.5/5,4255,Marathahalli,Delivery,"South Indian, North Indian",600,Cafes,Marathahalli
+Chinese Hut,No,Yes,2.9/5,5658,Church Street,Casual Dining,"Pizza, Fast Food",600,Buffet,BTM Layout
+Beijing Bites,Yes,Yes,3.5/5,6917,Banashankari,"Casual Dining, Cafe",Street Food,,Delivery,BTM Layout
+Haveli,Yes,No,3.0/5,6059,Bellandur,Quick Bites,,600,Dine-out,HSR Layout
+Dhaba Faasos,No,No,4.6/5,3287,Rajajinagar  ,"Casual Dining, Cafe","Cafe, Beverages",1000,Delivery,Jayanagar
+Cafe Corner House,Yes,No,4.6/5,3919,Jayanagar,Fine Dining,"South Indian, North Indian",150,Dine-out,Banashankari
+The Koshy's,No,,NEW,5352,Bellandur,Food Court,"South Indian, Chinese",2500,Buffet,Electronic City
+The Dragon Palace,Yes,No,,7390,BTM Layout,Mess,"Seafood, Continental",300,Dine-out,Koramangala
+Empire Restaurant,No,No,2.7/5,5864,Vijayanagar  ,Mess,"South Indian, North Indian","1,000",Lunch,Whitefield
+Dhaba Truffles,Yes,No,4.2/5,4146,Marathahalli,Fine Dining,"Mughlai, North Indian",600,Delivery,Marathahalli
+Beijing Bites,Yes,Yes,4.8/5,403,Indiranagar  ,,"Desserts, Bakery",150,Buffet,Jayanagar
+Chai Point,No,Yes,3.9/5,6602,JP Nagar  ,Delivery,,800,Delivery,Koramangala
+Chinese Hut,Yes,,4.0/5,5511,Koramangala,Bakery,"Sandwich, Fast Food","1,000",Lunch,Indiranagar
+Brahmin Coffee Bar,No,,NEW,6090,BTM Layout,Bakery,South Indian,900,Buffet,Marathahalli
+Biryani Vasudev Adiga,No,No,4.4/5,7708,Whitefield,Desserts,,2500,Buffet,HSR Layout
+Biryani Vasudev Adiga,No,Yes,3.1/5,5699,Whitefield,Cafe,"South Indian, North Indian",400,Cafes,Indiranagar
+Barbeque Nation,No,,4.4/5,1809,Sarjapur Road,Delivery,"North Indian, Chinese",350,Cafes,Koramangala
+Srinidhi,Yes,Yes,2.8/5,7062,MG Road,Bar,"Continental, North Indian",1200,Desserts,Jayanagar
+Hotel Beijing Bites,Yes,,3.3/5,7725,Whitefield,Mess,Chinese,2000,Cafes,Indiranagar
+New Taj Mahal Cafe,No,No,4.8/5,6257,Sarjapur Road,Beverage Shop,,150,Dine-out,HSR Layout
+Biryani Faasos,Yes,Yes,2.6/5,5519,Whitefield  ,Beverage Shop,Street Food,450,Desserts,Electronic City
+Eat Street,Yes,No,4.4/5,145,Bellandur,Bar,Chinese,1000,Delivery,BTM Layout
+Starbucks,Yes,No,4.1/5,7904,Hebbal  ,Quick Bites,"North Indian, Chinese",150,Lunch,Whitefield
+Hotel McDonald's,Yes,No,4.4/5,5445,Electronic City,Fine Dining,"Desserts, Bakery",700,Drinks & nightlife,JP Nagar
+Restaurant Beijing Bites,Yes,Yes,3.7/5,5342,Church Street,Food Court,"Sandwich, Fast Food","2,500",Drinks & nightlife,BTM Layout
+Natural Ice Cream,Yes,Yes,2.6/5,125,Frazer Town,Casual Dining,Street Food,300,Desserts,Electronic City
+Cafe Coffee Day,Yes,Yes,4.2/5,4107,Whitefield,,"South Indian, Chinese","2,500",Lunch,BTM Layout
+Meghana Foods,No,No,3.3/5,2270,HSR Layout  ,Bar,"Italian, Pizza",700,Dine-out,Whitefield
+Koshy's,Yes,No,3.4/5,7979,Basavanagudi,"Pub, Bar","South Indian, North Indian",2500,Delivery,Electronic City
+Chinese Hut,No,No,4.4/5,2637,Basavanagudi,Sweet Shop,Chinese,900,Cafes,JP Nagar
+Srinidhi,No,,4.7/5,2496,Hebbal  ,Quick Bites,"Desserts, Bakery",1000,Dine-out,Marathahalli
+Dominos,Yes,,3.2/5,1933,Majestic,Bar,"Biryani, North Indian",250,Buffet,Marathahalli
+Cafe Eat Street,Yes,No,4.5/5,735,Koramangala,Casual Dining,"Cafe, Beverages",900,Dine-out,Whitefield
+Toit Brewpub,No,No,2.5/5,5181,Domlur  ,Casual Dining,North Indian,2000,Delivery,HSR Layout
+Faasos,Yes,No,4.8/5,1716,Domlur,Delivery,Street Food,250,Buffet,JP Nagar
+Hotel Wrap It Up,No,,4.4/5,1798,Koramangala,Cafe,Chinese,500,Buffet,Koramangala
+Empire Restaurant,No,No,NEW,7371,Indiranagar,Sweet Shop,"Ice Cream, Desserts",1500,Dine-out,Whitefield
+Corner House,Yes,,4.5/5,5343,Whitefield,"Casual Dining, Cafe","Cafe, Beverages",400,Delivery,Electronic City
+Dhaba Wrap It Up,No,Yes,4.1/5,7764,Bellandur,Delivery,"South Indian, Chinese",1000,Drinks & nightlife,Koramangala
+Dhaba Truffles,No,,4.3/5,715,Jayanagar,Sweet Shop,"Mughlai, North Indian",350,Desserts,BTM Layout
+Palace Corner House,No,Yes,2.6/5,6948,Koramangala  ,Quick Bites,"Italian, Pizza",450,Dine-out,Jayanagar
+Starbucks,No,No,4.5/5,4476,Koramangala,Cafe,"Biryani, North Indian",300,Delivery,Banashankari
+Pizza Hut,Yes,Yes,3.5/5,5094,RT Nagar  ,,,2500,Buffet,Indiranagar
+Biryani Corner House,No,No,3.3/5,7512,Hebbal,Fine Dining,"Pizza, Fast Food",700,Drinks & nightlife,HSR Layout
+Biryani Zone,Yes,No,4.8/5,2408,Marathahalli,Bakery,"Pizza, Fast Food",1000,Buffet,Koramangala
+Kamat Upachar,No,No,2.5/5,2071,Rajajinagar,"Casual Dining, Cafe","Italian, Pizza",1200,Drinks & nightlife,Electronic City
+The Burger Lab,Yes,No,4.5/5,3848,Richmond Town,Delivery,"Italian, Pizza",800,Cafes,Marathahalli
+House Kamat Upachar,Yes,No,2.9/5,316,Church Street  ,Desserts,"South Indian, North Indian",150,Cafes,Marathahalli
+Beijing Bites,Yes,Yes,4.5/5,3778,Majestic,Quick Bites,"Continental, North Indian",250,Drinks & nightlife,Jayanagar
+New Taj Mahal Cafe,Yes,No,-,6704,Richmond Town,"Casual Dining, Cafe",South Indian,2500,Cafes,Marathahalli
+Subway,No,No,4.0/5,2808,Yelahanka,Food Court,"Continental, North Indian",400,Dine-out,BTM Layout
+Biryani MTR,Yes,Yes,4.8/5,3811,Hebbal,Casual Dining,Fast Food,2000,Drinks & nightlife,Whitefield
+Beijing Bites,Yes,No,3.2/5,514,Jayanagar,Delivery,"Cafe, Beverages",350,Cafes,Whitefield
+KFC,Yes,No,2.9/5,3052,Bellandur,Cafe,South Indian,300,Dine-out,Electronic City
+Palace Beijing Bites,No,No,2.9/5,515,Church Street  ,Mess,"Italian, Pizza",150,Lunch,Banashankari
+India Gate,No,No,3.0/5,7622,Yelahanka,Sweet Shop,"Desserts, Bakery","2,500",Cafes,Jayanagar
+Kitchen Empire Restaurant,Yes,Yes,4.5/5,4795,Malleshwaram,,Street Food,700,Cafes,Marathahalli
+Hotel Pai Vista,Yes,Yes,,2914,Bellandur,Quick Bites,"South Indian, Chinese",400,Dine-out,Indiranagar
+India Gate,Yes,Yes,3.3/5,5315,HSR Layout,Bakery,"Desserts, Bakery",2000,Desserts,Marathahalli
+Koshy's,Yes,No,3.9/5,444,Majestic,Quick Bites,"Desserts, Bakery",300,Delivery,Koramangala
+Cafe Vidyarthi Bhavan,No,,4.8/5,4068,Sarjapur Road,Sweet Shop,"Pizza, Fast Food",2000,Cafes,JP Nagar
+Punjab Grill,Yes,No,3.4/5,5806,MG Road,Casual Dining,Chinese,2000,Delivery,Electronic City
+Punjabi Tadka,No,No,4.8/5,1098,Richmond Town,Bakery,"Italian, Pizza",350,Buffet,JP Nagar
+Box8,No,No,NEW,5203,JP Nagar,Quick Bites,South Indian,2500,Desserts,BTM Layout
+KFC,Yes,Yes,3.1/5,284,Yelahanka,Bakery,"Italian, Pizza",1500,Dine-out,Marathahalli
+Spice Garden,No,,2.7/5,885,Yelahanka,Quick Bites,,450,Lunch,Marathahalli
+Meghana Foods,Yes,Yes,3.2/5,1735,MG Road,Quick Bites,"Mughlai, North Indian",350,Dine-out,BTM Layout
+Corner House,Yes,No,3.1/5,714,Indiranagar,Delivery,"South Indian, Chinese",2500,Cafes,Koramangala
+Brahmin Coffee Bar,Yes,No,2.9/5,5561,Domlur,"Casual Dining, Cafe",,350,Desserts,Electronic City
+Chai Point,No,No,4.7/5,5453,Basavanagudi,Fine Dining,Biryani,1500,Drinks & nightlife,Banashankari
+Kitchen Toit Brewpub,No,Yes,3.2/5,148,Bellandur  ,Beverage Shop,"Seafood, Continental",600,Drinks & nightlife,Electronic City
+Kitchen Punjab Grill,No,Yes,4.0/5,713,Richmond Town,Beverage Shop,"Mughlai, North Indian",600,Dine-out,Koramangala
+Natural Ice Cream,Yes,No,2.6/5,2408,Richmond Town,Fine Dining,"South Indian, North Indian",350,Cafes,JP Nagar
+Chai Point,Yes,Yes,2.6/5,3170,BTM Layout,Food Court,"South Indian, North Indian",400,Desserts,Koramangala
+Kitchen Belgian Waffle,No,No,4.7/5,2719,JP Nagar,Fine Dining,"North Indian, Chinese",400,Lunch,BTM Layout
+Hotel Pai Vista,No,No,4.6/5,1343,Frazer Town  ,Beverage Shop,Fast Food,1500,Drinks & nightlife,Marathahalli
+Dhaba Truffles,Yes,Yes,2.8/5,2474,Whitefield,Casual Dining,"Cafe, Beverages",450,Desserts,Jayanagar
+Empire Restaurant,No,Yes,4.7/5,2360,JP Nagar,Desserts,"Continental, North Indian",150,Delivery,JP Nagar
+McDonald's,Yes,Yes,NEW,1682,Yelahanka,Casual Dining,"Desserts, Bakery",400,Lunch,Whitefield
+KFC,No,,4.7/5,2401,Hebbal,,"Italian, Pizza","2,500",Buffet,Indiranagar
+Udupi Palace,Yes,No,4.5/5,3804,Frazer Town,Desserts,"Sandwich, Fast Food",450,Lunch,Indiranagar
+Subway,Yes,Yes,4.9/5,4005,Domlur,Bakery,"Ice Cream, Desserts",250,Cafes,Electronic City
+Kitchen Amul,Yes,No,4.3/5,4986,Jayanagar,,"Cafe, Beverages",200,Dine-out,Marathahalli
+Subway,Yes,No,3.5/5,6441,Bellandur,Cafe,"Desserts, Bakery",300,Buffet,JP Nagar
+Biryani Pizza Hut,No,Yes,3.1/5,3725,Koramangala,"Casual Dining, Cafe",North Indian,300,Dine-out,BTM Layout
+Eat Street,No,Yes,3.5/5,3976,Sarjapur Road,Bakery,"South Indian, Chinese",150,Lunch,Koramangala
+Natural Ice Cream,Yes,Yes,3.1/5,5367,Frazer Town,Casual Dining,"Bakery, Cafe","1,500",Buffet,Marathahalli
+Tasty Bites,No,No,3.7/5,2506,HSR Layout,Delivery,Chinese,800,Cafes,Electronic City
+Hotel Corner House,Yes,No,2.8/5,1266,Majestic,Quick Bites,"Sandwich, Fast Food",500,Buffet,Banashankari
+Corner House,Yes,No,4.4/5,4616,Basavanagudi,Fine Dining,"South Indian, Chinese",500,Lunch,Whitefield
+Srinidhi,Yes,Yes,NEW,7157,Marathahalli,Bakery,"Sandwich, Fast Food",400,Drinks & nightlife,Marathahalli
+Hotel Pai Vista,No,No,4.2/5,6353,Marathahalli,Fine Dining,Fast Food,1200,Delivery,Whitefield
+Barbeque Nation,No,Yes,4.0/5,7548,Rajajinagar,Bar,"Continental, North Indian",,Buffet,Indiranagar
+Kitchen Satkar,No,Yes,4.0/5,3899,Koramangala,Sweet Shop,"Ice Cream, Desserts",300,Desserts,Marathahalli
+Vidyarthi Bhavan,No,Yes,4.1/5,762,Jayanagar,Cafe,"North Indian, Chinese",500,Desserts,Whitefield
+KFC,No,No,4.5/5,129,Church Street,Food Court,"Biryani, North Indian",200,Dine-out,BTM Layout
+Corner India Gate,Yes,Yes,3.3/5,5420,Hebbal  ,Quick Bites,North Indian,600,Drinks & nightlife,Electronic City
+Kanti Sweets,Yes,No,4.8/5,4356,Whitefield,Cafe,"Mughlai, North Indian",800,Buffet,Indiranagar
+Truffles,Yes,Yes,4.6/5,3041,Richmond Town,Quick Bites,Fast Food,350,Drinks & nightlife,Koramangala
+Srinidhi,Yes,Yes,4.1/5,2064,Majestic,Fine Dining,Biryani,300,Buffet,JP Nagar
+Satkar,No,No,2.7/5,7421,Domlur,Food Court,"Desserts, Bakery",500,Desserts,BTM Layout
+Dominos,No,Yes,3.0/5,7334,Hebbal,Sweet Shop,Fast Food,700,Drinks & nightlife,Whitefield
+Starbucks,No,,3.2/5,1596,Sarjapur Road,Food Court,Street Food,700,Lunch,Indiranagar
+The Shivaji Military Hotel,No,No,3.3/5,1826,JP Nagar,Delivery,"South Indian, North Indian",150,Buffet,HSR Layout
+Rolls Mania,Yes,Yes,3.8/5,3046,Malleshwaram,Desserts,"Desserts, Bakery",1200,Lunch,Indiranagar
+Natural Ice Cream,Yes,Yes,3.8/5,7729,Malleshwaram,"Pub, Bar","Italian, Pizza",250,Delivery,Electronic City
+Haveli,No,Yes,NEW,2356,Whitefield,Cafe,"Biryani, North Indian",800,Cafes,JP Nagar
+Box8,No,Yes,2.7/5,7519,HSR Layout,Delivery,"Seafood, Continental",400,Lunch,Banashankari
+House Shivaji Military Hotel,Yes,Yes,3.8/5,1711,Koramangala,,"South Indian, Chinese",200,Drinks & nightlife,Electronic City
+Punjabi Tadka,No,Yes,4.7/5,1713,Majestic,Quick Bites,North Indian,,Drinks & nightlife,Jayanagar
+Hotel Pai Vista,No,No,3.7/5,2203,Koramangala  ,Casual Dining,"Desserts, Bakery",,Buffet,Electronic City
+Box8,Yes,,3.8/5,2564,Basavanagudi,Bakery,,1000,Desserts,Electronic City
+Natural Ice Cream,No,No,NEW,7385,Church Street,Fine Dining,"Cafe, Beverages",1500,Lunch,Marathahalli
+The Burger Lab,No,,3.4/5,4770,Marathahalli,Bakery,,500,Cafes,Jayanagar
+Shivaji Military Hotel,No,Yes,,4116,Hebbal  ,"Pub, Bar","Mughlai, North Indian",1200,Buffet,Indiranagar
+Dominos,Yes,,3.7/5,4321,Vijayanagar  ,Bar,South Indian,300,Buffet,Koramangala
+Cafe Corner House,Yes,Yes,3.1/5,3329,RT Nagar,Sweet Shop,"Seafood, Continental",400,Drinks & nightlife,BTM Layout
+Kanti Sweets,Yes,Yes,2.6/5,4008,Richmond Town,Cafe,North Indian,1000,Delivery,JP Nagar
+The Burger Lab,Yes,No,2.8/5,5295,Vijayanagar,Cafe,"South Indian, Chinese",,Dine-out,HSR Layout
+Eat Street,Yes,Yes,3.1/5,5352,RT Nagar,Sweet Shop,"Bakery, Cafe",1200,Delivery,HSR Layout
+Truffles,No,No,4.3/5,661,Richmond Town,Bar,Biryani,200,Desserts,Marathahalli
+Subway,Yes,No,3.3/5,1390,JP Nagar  ,Food Court,Fast Food,900,Drinks & nightlife,BTM Layout
+Corner House,Yes,Yes,3.1/5,440,Majestic,Beverage Shop,South Indian,,Delivery,Electronic City
+MTR,No,Yes,3.7/5,5640,HSR Layout,Bar,"Biryani, North Indian",350,Desserts,Electronic City
+Eat Street,No,Yes,NEW,2033,Indiranagar,Bakery,"Biryani, North Indian","1,500",Buffet,Indiranagar
+Freshmenu,Yes,Yes,2.7/5,6154,Rajajinagar  ,Cafe,"Desserts, Bakery",1500,Cafes,Marathahalli
+Subway,No,,4.0/5,2740,JP Nagar,Quick Bites,"Biryani, North Indian",1500,Buffet,Indiranagar
+Hotel Pai Vista,No,No,4.2/5,5718,Yelahanka,Casual Dining,"Sandwich, Fast Food",200,Lunch,Electronic City
+The Chai Point,Yes,No,2.9/5,7981,Richmond Town,Beverage Shop,"Pizza, Fast Food",350,Dine-out,Indiranagar
+Cafe Coffee Day,No,Yes,3.6/5,894,Bellandur  ,"Casual Dining, Cafe","Sandwich, Fast Food",500,Desserts,HSR Layout
+Dhaba Haveli,No,Yes,4.2/5,560,JP Nagar,Sweet Shop,Chinese,"1,000",Buffet,Whitefield
+Natural Ice Cream,Yes,No,3.2/5,1796,Domlur,Mess,"Ice Cream, Desserts",1200,Delivery,Whitefield
+MTR,No,Yes,3.4/5,3144,Whitefield,Fine Dining,South Indian,350,Lunch,HSR Layout
+Pizza Hut,Yes,Yes,3.5/5,661,Jayanagar,,"Italian, Pizza",,Lunch,Indiranagar
+Kitchen Dragon Palace,No,Yes,3.3/5,2349,Vijayanagar,Sweet Shop,"South Indian, Chinese",450,Cafes,Indiranagar
+Kitchen Srinidhi,No,,4.8/5,3461,Indiranagar,Bar,"South Indian, North Indian",2500,Drinks & nightlife,Electronic City
+New Taj Mahal Cafe,No,No,4.7/5,38,Whitefield  ,Desserts,"Biryani, North Indian",1200,Lunch,Koramangala
+Haveli,No,No,2.7/5,6402,Majestic  ,Sweet Shop,"Sandwich, Fast Food",1000,Buffet,BTM Layout
+House Natural Ice Cream,No,No,3.2/5,2863,Sarjapur Road,,Chinese,700,Dine-out,Electronic City
+Wrap It Up,No,No,3.4/5,2255,Indiranagar,"Pub, Bar","Seafood, Continental",700,Buffet,Koramangala
+Hotel Pai Vista,No,,-,2896,Yelahanka,Sweet Shop,,450,Drinks & nightlife,Banashankari
+Freshmenu,No,No,4.8/5,6052,Marathahalli,Bakery,"Seafood, Continental",150,Dine-out,Jayanagar
+Biryani Zone,Yes,No,2.9/5,3953,Malleshwaram,Food Court,"North Indian, Chinese",2000,Cafes,JP Nagar
+Belgian Waffle,No,No,3.0/5,1280,RT Nagar,,"Seafood, Continental",800,Dine-out,HSR Layout
+Box8,No,Yes,3.8/5,943,Majestic,Delivery,"Desserts, Bakery",200,Dine-out,Koramangala
+Spice Garden,No,No,NEW,5429,Domlur,Quick Bites,"Continental, North Indian",,Cafes,Banashankari
+India Gate,Yes,Yes,3.5/5,3020,Yelahanka,Sweet Shop,"Pizza, Fast Food","2,500",Dine-out,BTM Layout
+Srinidhi,No,No,3.1/5,7099,Majestic,"Pub, Bar","South Indian, North Indian",900,Cafes,BTM Layout
+Meghana Foods,No,No,3.8/5,1387,Electronic City,Cafe,Street Food,300,Lunch,Marathahalli
+Biryani Zone,No,No,,1000,Frazer Town,Cafe,"Seafood, Continental",450,Drinks & nightlife,Jayanagar
+Rolls Mania,No,,3.1/5,1913,HSR Layout  ,Bar,"South Indian, North Indian",2000,Buffet,BTM Layout
+Subway,Yes,No,2.7/5,2382,Sarjapur Road,Cafe,"Mughlai, North Indian",500,Lunch,BTM Layout
+Biryani Faasos,No,No,3.2/5,7742,Indiranagar,"Pub, Bar",Street Food,500,Cafes,Banashankari
+Vidyarthi Bhavan,Yes,Yes,3.4/5,6139,Malleshwaram,Bakery,"Bakery, Cafe",250,Dine-out,Jayanagar
+Natural Ice Cream,Yes,Yes,3.4/5,4037,Electronic City,"Pub, Bar",,350,Dine-out,Jayanagar
+New Taj Mahal Cafe,No,No,3.3/5,7406,Bellandur,Bar,"Continental, North Indian","1,500",Dine-out,Indiranagar
+Palace McDonald's,No,No,3.1/5,5016,Richmond Town,Cafe,"Ice Cream, Desserts",250,Lunch,Marathahalli
+Vidyarthi Bhavan,No,No,2.9/5,4440,Richmond Town,Bar,"Bakery, Cafe",,Lunch,Marathahalli
+Dominos,Yes,Yes,2.6/5,2190,Frazer Town  ,Sweet Shop,Fast Food,350,Dine-out,BTM Layout
+Brahmin Coffee Bar,No,Yes,4.0/5,2800,Rajajinagar,Bar,"Seafood, Continental",2500,Delivery,Electronic City
+Hotel Srinidhi,No,No,3.3/5,1388,MG Road,Mess,"Sandwich, Fast Food",600,Delivery,Indiranagar
+Biryani Faasos,Yes,Yes,3.3/5,5481,Frazer Town,"Pub, Bar",,150,Desserts,Indiranagar
+Meghana Foods,Yes,Yes,3.2/5,1735,MG Road,Quick Bites,"Mughlai, North Indian",350,Dine-out,BTM Layout
+Barbeque Nation,No,No,4.1/5,6479,Domlur,"Pub, Bar",Fast Food,500,Delivery,HSR Layout
+Srinidhi,No,No,4.8/5,1525,Jayanagar,Bakery,"Pizza, Fast Food",600,Dine-out,HSR Layout
+Restaurant Cafe Coffee Day,Yes,No,2.7/5,3427,Indiranagar,Cafe,"South Indian, Chinese",450,Lunch,HSR Layout
+House Wrap It Up,Yes,Yes,3.7/5,1243,Majestic,"Pub, Bar","Ice Cream, Desserts",700,Lunch,HSR Layout
+Biryani Chinese Hut,No,Yes,-,5463,Vijayanagar,Desserts,North Indian,400,Drinks & nightlife,Banashankari
+Wrap It Up,Yes,No,3.1/5,574,Majestic,Beverage Shop,"Mughlai, North Indian",400,Buffet,Whitefield
+Srinidhi,Yes,No,2.7/5,7393,Church Street,Casual Dining,"Pizza, Fast Food",450,Drinks & nightlife,Koramangala
+Corner Spice Garden,No,,3.5/5,7842,Bellandur,"Pub, Bar",,500,Buffet,BTM Layout
+Tasty Bites,Yes,Yes,4.8/5,2875,Domlur,Bar,"South Indian, North Indian",450,Dine-out,Banashankari
+Belgian Waffle,No,No,4.7/5,3072,Marathahalli,Casual Dining,,250,Drinks & nightlife,Electronic City
+Toit Brewpub,No,No,3.9/5,3511,Church Street,Beverage Shop,North Indian,1500,Cafes,BTM Layout
+Udupi Palace,Yes,Yes,3.8/5,4783,HSR Layout,Bakery,"Seafood, Continental",300,Delivery,BTM Layout
+The Punjab Grill,No,No,4.1/5,4023,Vijayanagar,Bar,"Cafe, Beverages",300,Drinks & nightlife,JP Nagar
+Rolls Mania,No,No,4.4/5,5548,Church Street,Bakery,Biryani,600,Lunch,JP Nagar
+Vasudev Adiga,No,No,3.8/5,6047,JP Nagar,Delivery,"Cafe, Beverages",350,Lunch,Indiranagar
+New Taj Mahal Cafe,No,No,4.8/5,7266,Malleshwaram,Desserts,Biryani,600,Lunch,Banashankari
+House Faasos,Yes,Yes,4.9/5,4815,Frazer Town,Bakery,South Indian,500,Delivery,HSR Layout
+Subway,Yes,Yes,4.2/5,4725,HSR Layout,Bakery,"Pizza, Fast Food",1000,Dine-out,Jayanagar
+India Gate,No,Yes,4.0/5,3229,Rajajinagar,Desserts,"Biryani, North Indian",400,Buffet,JP Nagar
+Hotel Pai Vista,No,No,4.9/5,7890,Frazer Town,Cafe,"Mughlai, North Indian",,Buffet,JP Nagar
+Freshmenu,No,No,3.1/5,1347,Jayanagar,Desserts,"Sandwich, Fast Food","1,500",Buffet,Whitefield
+Hotel Pai Vista,Yes,Yes,2.7/5,1269,Yelahanka,Quick Bites,North Indian,800,Delivery,Whitefield
+Spice Garden,Yes,No,3.8/5,1435,Basavanagudi,Casual Dining,North Indian,900,Lunch,Jayanagar
+Beijing Bites,Yes,No,2.6/5,5179,HSR Layout  ,Delivery,South Indian,1000,Lunch,Indiranagar
+Belgian Waffle,No,Yes,4.3/5,7620,Hebbal,Quick Bites,"North Indian, Chinese",250,Desserts,Koramangala
+Eat Street,No,Yes,4.2/5,6508,Banashankari,Delivery,"Continental, North Indian",300,Lunch,Marathahalli
+Udupi Palace,No,Yes,4.7/5,5208,Richmond Town,Casual Dining,"North Indian, Chinese",,Delivery,Koramangala
+Meghana Foods,Yes,Yes,4.2/5,4930,Jayanagar,Bakery,South Indian,1200,Delivery,Indiranagar
+Cafe Coffee Day,Yes,Yes,4.3/5,5699,BTM Layout,Sweet Shop,"Bakery, Cafe",300,Desserts,Banashankari
+Haveli,No,No,2.5/5,4455,Basavanagudi  ,,South Indian,200,Buffet,Banashankari
+Chai Point,No,No,3.7/5,6721,Marathahalli,Sweet Shop,"Continental, North Indian","1,000",Desserts,Jayanagar
+Punjab Grill,Yes,Yes,2.7/5,6596,Church Street,Beverage Shop,,350,Buffet,Whitefield
+Palace Dominos,No,Yes,4.0/5,707,Malleshwaram,Desserts,"Italian, Pizza",250,Dine-out,Whitefield
+Satkar,Yes,Yes,3.0/5,3609,Church Street  ,Desserts,Biryani,350,Delivery,Koramangala
+Faasos,Yes,No,,1026,Jayanagar,Mess,"Italian, Pizza",1200,Delivery,HSR Layout
+Vidyarthi Bhavan,No,No,3.5/5,3943,Indiranagar,,"North Indian, Chinese",2500,Buffet,JP Nagar
+McDonald's,Yes,Yes,4.8/5,1660,Banashankari,Bakery,,700,Dine-out,BTM Layout
+Cafe Haveli,No,Yes,2.6/5,7630,Whitefield,"Casual Dining, Cafe","Ice Cream, Desserts",600,Delivery,Electronic City
+Donne Biryani,Yes,Yes,4.4/5,7446,Whitefield,Beverage Shop,Street Food,600,Desserts,JP Nagar
+Punjabi Tadka,Yes,No,NEW,5408,Indiranagar,"Pub, Bar",North Indian,1000,Cafes,JP Nagar
+Chinese Hut,No,Yes,4.9/5,7052,Rajajinagar,Desserts,,900,Buffet,Electronic City
+Chinese Hut,Yes,No,4.1/5,6257,BTM Layout  ,Bakery,"South Indian, Chinese",700,Lunch,Koramangala
+Cafe Vasudev Adiga,Yes,Yes,4.2/5,7404,Frazer Town,Fine Dining,Chinese,200,Dine-out,Whitefield
+Starbucks,Yes,Yes,2.6/5,5439,MG Road  ,Delivery,"Italian, Pizza",400,Dine-out,Indiranagar
+Kamat Upachar,No,No,3.5/5,1763,Malleshwaram,Sweet Shop,"North Indian, Chinese",250,Buffet,Banashankari
+Truffles,No,Yes,3.9/5,1273,Sarjapur Road,Beverage Shop,Biryani,700,Cafes,Koramangala
+Haveli,No,Yes,3.0/5,6262,Richmond Town,Food Court,North Indian,400,Dine-out,Whitefield
+Truffles,Yes,Yes,3.3/5,1408,Koramangala,Mess,"Sandwich, Fast Food",300,Drinks & nightlife,HSR Layout
+Vidyarthi Bhavan,Yes,,4.6/5,4579,Richmond Town,Cafe,"South Indian, Chinese",1000,Desserts,Whitefield
+Rolls Mania,Yes,Yes,4.7/5,2971,Jayanagar,Bakery,"Continental, North Indian",150,Dine-out,BTM Layout
+MTR,No,No,2.6/5,7009,JP Nagar,,"Pizza, Fast Food",900,Delivery,Electronic City
+Kitchen Empire Restaurant,Yes,Yes,4.5/5,4795,Malleshwaram,,Street Food,700,Cafes,Marathahalli
+The Burger Lab,No,No,2.7/5,1985,JP Nagar,"Pub, Bar",Biryani,1200,Delivery,Marathahalli
