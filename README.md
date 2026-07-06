@@ -134,20 +134,7 @@ A 6-panel dashboard summarizing the full analysis:
 - **NumPy** — numerical operations
 - **Matplotlib & Seaborn** — visualization
 
----
 
-## 📂 Repository Structure
-
-```
-zomato-bangalore-eda/
-│
-├── zomato_raw.csv                    # Raw dataset
-├── Zomato_Data_Analysis.ipynb        # Main notebook (cleaning → EDA → viz)
-├── zomato_eda.png                    # Final visualization dashboard
-└── README.md                         # Project documentation
-```
-
----
 
 ## 🚀 How to Run
 
